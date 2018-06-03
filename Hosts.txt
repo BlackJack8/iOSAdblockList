@@ -202,6 +202,7 @@ adorigin.com
 adotmob.com
 adprotected.com
 adquota.com
+adrta.com
 ads-fa.spotify.com
 ads.admarvel.com
 ads.administrator.de
@@ -1283,6 +1284,7 @@ cdn.popmyads.com
 cdn.puffnetwork.com
 cdn.segment.com
 cdn.taboola.com
+cdn.trademob.com
 cdn.trafficforce.com
 cdn.unityads.unity3d.com
 cdn.us.goldspotmedia.com
@@ -2177,6 +2179,7 @@ imonitor.nethost.cz
 imp.startappservice.com
 impr.ads.justpremium.com
 imprese.cz
+impression-eu.adikteev.com
 impressionmedia.cz
 impressionz.co.uk
 imrworldwide.com
@@ -3754,8 +3757,6 @@ underclick.ru
 unicume.com
 unilead.com
 unileadnetwork.com
-unity.com
-unity.de
 unity3d.com
 unityads.co.com
 unityads.co.uk
