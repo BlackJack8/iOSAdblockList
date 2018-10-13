@@ -1,5 +1,5 @@
 # Host-List for iOS ad blockers
 This list is focused on iOS.
-Constantly updated,to block all inapp ads.
-If you notice ads,please tell me.
-(for Safari I suggest you to use the Aguard content blocker.It enhances blocking)
+Updated at least once every month!
+In order to get notified from an update, mark my repository as "watched".
+If you notice ads then please tell me via reddit u/neidhardterik . (Note that ads on Youtube, Messenger, Instagram and some other social media platforms can't be blocked due to the host format.)
