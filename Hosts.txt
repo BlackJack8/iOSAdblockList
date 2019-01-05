@@ -61,7 +61,6 @@ ad.atdmt.com
 ad.crwdcntrl.net
 ad.doubleclick.net
 ad.eurosport.com
-ad.eurosport.de
 ad.flipboard.com
 ad.flurry.com
 ad.leadbolt.net
