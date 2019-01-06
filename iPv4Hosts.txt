@@ -1956,7 +1956,6 @@
 0.0.0.0 openad.travelnow.com
 0.0.0.0 openads.friendfinder.com
 0.0.0.0 openamp-error-reporting.appspot.com
-0.0.0.0 openload.co
 0.0.0.0 openvideoads.com
 0.0.0.0 openvideoads.org
 0.0.0.0 openx.com
@@ -3114,7 +3113,6 @@
 0.0.0.0 www.prime31.com
 0.0.0.0 www.propellerads.com
 0.0.0.0 www.pubmatic.com
-0.0.0.0 www.rapidvideo.com
 0.0.0.0 www.refinery29.com
 0.0.0.0 www.revmob.com
 0.0.0.0 www.sdad.guru
