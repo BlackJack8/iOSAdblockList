@@ -1955,7 +1955,6 @@ open.oneplus.net
 openad.travelnow.com
 openads.friendfinder.com
 openamp-error-reporting.appspot.com
-openload.co
 openvideoads.com
 openvideoads.org
 openx.com
