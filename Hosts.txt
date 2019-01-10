@@ -2583,7 +2583,6 @@ syndication.twitter.com
 synthes.vo.llnwd.net
 system-security-com.xyz
 t.appsflyer.com
-t.co
 t.insigit.com
 t.lkqd.net
 t.mookie1.com
