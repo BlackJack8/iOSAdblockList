@@ -2584,7 +2584,6 @@
 0.0.0.0 synthes.vo.llnwd.net
 0.0.0.0 system-security-com.xyz
 0.0.0.0 t.appsflyer.com
-0.0.0.0 t.co
 0.0.0.0 t.insigit.com
 0.0.0.0 t.lkqd.net
 0.0.0.0 t.mookie1.com
