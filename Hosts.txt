@@ -61,6 +61,7 @@ ad.atdmt.com
 ad.crwdcntrl.net
 ad.doubleclick.net
 ad.eurosport.com
+ad.eurosport.de
 ad.flipboard.com
 ad.flurry.com
 ad.leadbolt.net
@@ -604,7 +605,6 @@ cdn.emetriq.de
 cdn.flurry.com
 cdn.heapanalytics.com
 cdn.inskinad.com
-cdn.jsdelivr.net
 cdn.krxd.net
 cdn.liftoff.io
 cdn.mxpnl.com
@@ -854,9 +854,9 @@ d.la1-c2-iad.salesforceliveagent.com
 d.nativendo.de
 d1434efe2b199612ceb1692ee6b5c79c.lswcdn.net
 d162nnmwf9bggr.cloudfront.net
-d1azc1qln24ryf.cloudfront.net
 d1cukx49fqe6hx.cloudfront.net
 d1hcqc7fn62zhy.cloudfront.net
+d1lxhc4jvstzrp.cloudfront.net
 d1no19iy69jvfx.cloudfront.net
 d1ovo20x1yw5yz.cloudfront.net
 d1pywvbolq0b04.cloudfront.net
@@ -879,7 +879,6 @@ d2na2p72vtqyok.cloudfront.net
 d2nvliyzbo36lk.cloudfront.net
 d2nzxre09owsau.cloudfront.net
 d2tduqxm9w65yc.cloudfront.net
-d2wy8f7a9ursnm.cloudfront.net
 d2x3bkdslnxkuj.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d37gvrvc0wt4s1.cloudfront.net
@@ -996,6 +995,7 @@ dualstack.f2.shared.us-eu.fastly.net
 dumedia.ru
 dx6ctphzljkf1.cloudfront.net
 dyfy12f5tv4q9.cloudfront.net
+dyn.emetriq.de
 dynamic.fmpub.net
 dynamicyield.com
 dyntrk.com
@@ -1005,6 +1005,7 @@ e-bannerx.com
 e.apsalar.com
 e.deployads.com
 eadexchange.com
+eb2.3lift.com
 ebayadvertising.com
 ebz.io
 ec.c.ooyala.com
@@ -1036,6 +1037,7 @@ eu-ma.sam4m.com
 eu-u.openx.net
 eur-ukp.adsrvr.org
 euros4click.de
+euwest-match.deepintent.com
 events.adcolony.com
 events.appsflyer.com
 events.startappservice.com
@@ -1145,7 +1147,6 @@ galaxien.com
 gamehouse.com
 gangstar-vegas.extads.gameloft.com
 gate.adperia.de
-gate.hockeyapp.net
 gateway.prod.eu-west-1.forester.a2z.com
 gator.com
 gbanners.hornymatches.com
@@ -1161,6 +1162,7 @@ geobanner.adultfriendfinder.com
 geovisite.com
 get.optad360.io
 getclicky.com
+gew1-accesspoint-b-h54m.ap.spotify.com
 gfe.nvidia.com
 global.appnext.com
 global.ymtracking.com
@@ -1207,6 +1209,7 @@ gp.dejanews.com
 gpd.trafficfabrik.net
 grapeshot.co.uk
 greetzebra.com
+grey.erne.co
 grt02.com
 grt03.com
 gsmtop.net
@@ -1385,6 +1388,7 @@ innovid.com
 insight.adsrvr.org
 insightexpress.com
 insightexpressai.com
+inskinmedia689754970364.s.moatpixel.com
 inspectorclick.com
 installp.com
 installrevenue.com
@@ -1398,6 +1402,7 @@ internetfuel.com
 interstitial.fyber.com
 intouch.adinfuse.com
 intowow.com
+inventory.vidazoo.com
 iocnt.com
 ip.ro
 ip193.cn
@@ -1603,6 +1608,8 @@ mas.sector.sk
 mastermind.com
 match.adsby.bidtheatre.com
 match.adsrvr.org
+match.justpremium.com
+match.sharethrough.com
 match.taboola.com
 matchcows.com
 matchcraft.com
@@ -1996,6 +2003,10 @@ p1.pstatp.com
 p13nlog-1106815646.us-east-1.elb.amazonaws.com
 p232207.clksite.com
 p31770.clksite.com
+p4-ciddibtcnkyyi-b6ayyr7rqwepni76-316309-i1.stbcast2.metric.gstatic.com
+p4-ciddibtcnkyyi-b6ayyr7rqwepni76-316309-i2.anycast.metric.gstatic.com
+p4-ciddibtcnkyyi-b6ayyr7rqwepni76-316309-s1-v6exp3-v4.metric.gstatic.com
+p4-ciddibtcnkyyi-b6ayyr7rqwepni76-if-v6exp3-v4.metric.gstatic.com
 pa2147929-8911-41dc-a669-1251d43b212e-18-207-180-15.fastcast.semfs.engsvc.go.com
 pagead-googlehosted.l.google.com
 pagead.l.google.com
@@ -2024,7 +2035,6 @@ partners.wfxtriggers.com
 pay-ads.com
 paycounter.com
 paypopup.com
-payserve.com
 pbnet.ru
 pbterra.com
 pbtngx-u-a-ds.nuggad.net
@@ -2069,6 +2079,7 @@ pixel.admobclick.com
 pixel.adsafeprotected.com
 pixel.advertising.com
 pixel.digitru.st
+pixel.everesttech.net
 pixel.keywee.co
 pixel.moatads.com
 pixel.quantserve.com
@@ -2345,7 +2356,6 @@ scorecardresearch.com
 scratch2cash.com
 script.adshark.site
 script.hotjar.com
-script.ioam.de
 scrubsky.com
 scrubswim.com
 sdk.adincube.com
@@ -2548,6 +2558,7 @@ straightnest.com
 strikead.com
 strikeadcdn.s3.amazonaws.com
 strivesidewalk.com
+stv.cdn-solution.net
 sube.puwangkj.com
 subscribe.hearstmags.com
 succeedscene.com
@@ -2571,9 +2582,11 @@ swelen.com
 switchadhub.com
 swordfishdc.com
 sy.eu.angsrvr.com
+sync-tm.everesttech.net
 sync.1rx.io
 sync.adkernel.com
 sync.bfmio.com
+sync.crwdcntrl.net
 sync.extend.tv
 sync.ipredictive.com
 sync.srv.stackadapt.com
@@ -2586,6 +2599,7 @@ t.appsflyer.com
 t.insigit.com
 t.lkqd.net
 t.mookie1.com
+t.myvisualiq.net
 t2.chartboost.com
 t3q7af0z.com
 t4ft.de
@@ -2659,6 +2673,7 @@ therichkids.com
 thetradedesk.com
 theylike.org
 thirdrespect.com
+thisis-images.scdn.co
 thogethoffic.co
 thoughtleadr.com
 thrnt.com
@@ -2741,6 +2756,7 @@ tracker.marinsm.com
 trackers.voodoo-analytics.io
 trackersimulator.org
 tracking-1611167402.us-east-1.elb.amazonaws.com
+tracking-opi.fonpit.de
 tracking-server-prod-1.zenmxapps.com
 tracking-stvde.adsafety.net
 tracking.4v4jfe79erfxfu8z8.com
@@ -2809,7 +2825,6 @@ trk.wrinkads.com
 trksontrks.com
 tsyndicate.com
 tt.onthe.io
-tt1.openload.co
 ttringwall.com
 tvmtracker.com
 twittad.com
@@ -2824,6 +2839,8 @@ ukbanners.com
 ulogs.umeng.com
 ulogs.umengcloud.com
 ultraadserver.com
+um.simpli.fi
+um.wbtrk.net
 ums.adtech.de
 unanimis.com
 unarmedindustry.com
@@ -2860,7 +2877,6 @@ v.lkqd.net
 v.ssacdn.com
 v.vungle.com
 v1.cnzz.com
-v16.muscdn.com
 v2.zopim.com
 v3.chartboost.com
 va.origin.startappservice.com
@@ -2872,7 +2888,6 @@ varielcontentdelivery.info
 vast.streamrail.net
 veille-referencement.com
 velti.com
-vendorlist.consensu.org
 venetia.iad.appboy.com
 ventivmedia.com
 venturead.com
@@ -2913,6 +2928,7 @@ vrs.cz
 vs.tucows.com
 vsassets.com
 vserv.mobi
+vt.myvisualiq.net
 vungle-cdn.vungle.com
 vungle.com
 vz-cdn.trafficjunky.net
@@ -3103,7 +3119,6 @@ www.nexage.com
 www.ogury.com
 www.omaze.com
 www.onclickpulse.com
-www.paradisi.de
 www.pflexads.com
 www.photo-ads.co.uk
 www.plista.com
@@ -3144,6 +3159,7 @@ www.wshifen.com
 www.youradchoices.com
 www.youtube-nocookie.com
 www.yume.com
+www.za-ads.de
 www.zergnet.com
 www1.gto-media.com
 www3738.rapidvideo.com
