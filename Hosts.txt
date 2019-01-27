@@ -718,7 +718,6 @@ clientmetrics-augmentum.kik.com
 clientmetrics-pa.apis.com
 clientmetrics-pa.googleapis.com
 clientmetrics.kik.com
-clients.l.google.com
 clients.tbo.com
 clk.ivitrack.com
 clk.pointroll.com
@@ -2330,7 +2329,6 @@ s0.doubleclick.net
 s1.2mdn.net
 s1.doubleclick.net
 s2d6.com
-s3.amazonaws.com
 s3.phluant.com
 s385.mxcdn.net
 s400.mxcdn.net
