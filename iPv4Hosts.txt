@@ -718,7 +718,6 @@
 0.0.0.0 clientmetrics-pa.apis.com
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 clientmetrics.kik.com
-0.0.0.0 clients.l.google.com
 0.0.0.0 clients.tbo.com
 0.0.0.0 clk.ivitrack.com
 0.0.0.0 clk.pointroll.com
@@ -2330,7 +2329,6 @@
 0.0.0.0 s1.2mdn.net
 0.0.0.0 s1.doubleclick.net
 0.0.0.0 s2d6.com
-0.0.0.0 s3.amazonaws.com
 0.0.0.0 s3.phluant.com
 0.0.0.0 s385.mxcdn.net
 0.0.0.0 s400.mxcdn.net
