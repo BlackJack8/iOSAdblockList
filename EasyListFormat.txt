@@ -1,3 +1,11 @@
+[Adblock Plus 2.0]
+! Version:
+! Title:
+! Last modified:
+! Expires: 4 days (update frequency)
+! Homepage:
+!
+
 ||050003.voodoo.com^
 ||050005.voodoo.com^
 ||0914.global.ssl.fastly.net^
