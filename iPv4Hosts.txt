@@ -3052,7 +3052,6 @@
 0.0.0.0 unicume.com
 0.0.0.0 unilead.com
 0.0.0.0 unileadnetwork.com
-0.0.0.0 unity3d.com
 0.0.0.0 unityads.co.com
 0.0.0.0 unityads.com
 0.0.0.0 unityads.unity3d.com
