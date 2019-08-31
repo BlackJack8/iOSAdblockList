@@ -2693,7 +2693,6 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 stat.stars.ru
 0.0.0.0 statad.ru
-0.0.0.0 static-cdn.jtvnw.net
 0.0.0.0 static-content-1.smadex.com
 0.0.0.0 static-de.ad4mat.net
 0.0.0.0 static-origin.plista.com
