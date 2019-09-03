@@ -420,7 +420,6 @@ as1.advfn.com
 asdkd.tutuapp.com
 askfm.adspirit.de
 asn.advolution.de
-assets-jpcust.jwpsrv.com
 assets.applovin.com
 assets.pinterest.com
 assets.purch.com
@@ -1224,7 +1223,6 @@ fw.adsafeprotected.com
 fwmrm.net
 fyber.com
 g.3gl.net
-g.jwpsrv.com
 g2.gumgum.com
 ga87z2o.com
 gads.pubmatic.com
@@ -1578,7 +1576,6 @@ jumptab.com
 jumptap.com
 justrelevant.com
 justwebads.com
-jwpltx.com
 k.iinfo.cz
 k.streamrail.com
 kanoodle.com
@@ -3112,7 +3109,6 @@ video.fyber.com
 videoplaza.com
 videoplaza.tv
 videoplus.vo.llnwd.net
-videos-f.jwpsrv.com
 vidoplay.b-cdn.net
 vidora.com
 vidout.net
