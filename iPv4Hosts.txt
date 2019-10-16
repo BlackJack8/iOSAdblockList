@@ -474,7 +474,6 @@
 0.0.0.0 appclick.net
 0.0.0.0 appcpi.net
 0.0.0.0 appengage-video.fyber.com
-0.0.0.0 apple-finance.query.yahoo.com
 0.0.0.0 appleapds.com
 0.0.0.0 applift.com
 0.0.0.0 appload.ingest.crittercism.com
@@ -1925,7 +1924,6 @@
 0.0.0.0 maudau.com
 0.0.0.0 mavq.net
 0.0.0.0 max.i12.de
-0.0.0.0 maxcdn.bootstrapcdn.com
 0.0.0.0 maximumcash.com
 0.0.0.0 maxonclick.com
 0.0.0.0 mbn.com.ua
