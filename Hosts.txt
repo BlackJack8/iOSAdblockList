@@ -3115,8 +3115,6 @@ sync.ipredictive.com
 sync.srv.stackadapt.com
 syndication.exdynsrv.com
 syndication.exosrv.com
-syndication.twimg.com
-syndication.twitter.com
 synthes.vo.llnwd.net
 system-security-com.xyz
 t.appsflyer.com
