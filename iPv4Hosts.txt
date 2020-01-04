@@ -832,8 +832,6 @@
 0.0.0.0 cdn.stripst.com
 0.0.0.0 cdn.stroeerdigitalgroup.de
 0.0.0.0 cdn.subscribers.com
-0.0.0.0 cdn.syndication.twimg.com
-0.0.0.0 cdn.syndication.twitter.com
 0.0.0.0 cdn.taboola.com
 0.0.0.0 cdn.tagcommander.com
 0.0.0.0 cdn.teenextrem.com
