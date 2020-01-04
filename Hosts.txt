@@ -832,8 +832,6 @@ cdn.spotxcdn.com
 cdn.stripst.com
 cdn.stroeerdigitalgroup.de
 cdn.subscribers.com
-cdn.syndication.twimg.com
-cdn.syndication.twitter.com
 cdn.taboola.com
 cdn.tagcommander.com
 cdn.teenextrem.com
