@@ -8,8 +8,13 @@ If you notice ads then please tell me via reddit u/neidhardterik . (Note that ad
 
 Miscellaneous is a list that blocks fake news, crypto miners and scam websites.
 
+For new users i recommend Adguard Pro, as it allows you to subscribe to a list without the need of manually adding the list after an update.
+
 ___________________________________________________________________________________________________________________________________
 
 Note:
 Use this link to directly import the list to Adblock by Futuremind: 
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt
+
+Use this link to subscribe to the list in Adguard Pro:
+https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/iPv4Hosts.txt
