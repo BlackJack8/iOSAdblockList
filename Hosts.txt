@@ -5943,7 +5943,6 @@ grae.ru
 grafana.appboy.com
 grafstat.ro
 grapeshot.co.uk
-graph.facebook.com
 graphql.api.dailymotion.com
 graphql.groovehq.com
 graphs.amung.us
