@@ -6691,7 +6691,6 @@
 0.0.0.0 inspectorclick.com
 0.0.0.0 inspiredjournal.xyz
 0.0.0.0 inspiredtaste-tagan.adlightning.com
-0.0.0.0 instabug.com
 0.0.0.0 installp.com
 0.0.0.0 installrevenue.com
 0.0.0.0 installtracker.com
