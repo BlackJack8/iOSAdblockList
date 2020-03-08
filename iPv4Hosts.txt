@@ -7680,7 +7680,6 @@
 0.0.0.0 media.sharethrough.com
 0.0.0.0 media.taplytics.com
 0.0.0.0 media.trafficjunky.net
-0.0.0.0 media0.giphy.com
 0.0.0.0 media1.admicro.vn
 0.0.0.0 media10.admicro.vn
 0.0.0.0 media2.admicro.vn
