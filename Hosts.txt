@@ -7680,7 +7680,6 @@ media.plista.netdna-cdn.com
 media.sharethrough.com
 media.taplytics.com
 media.trafficjunky.net
-media0.giphy.com
 media1.admicro.vn
 media10.admicro.vn
 media2.admicro.vn
