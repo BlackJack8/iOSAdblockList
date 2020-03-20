@@ -11408,7 +11408,6 @@
 0.0.0.0 static.wpm.neustar.biz
 0.0.0.0 static.yieldmo.com
 0.0.0.0 static.yomedia.vn
-0.0.0.0 static.zdassets.com
 0.0.0.0 static2.8live.com
 0.0.0.0 static2.adtimaserver.vn
 0.0.0.0 static2.chartbeat.com
