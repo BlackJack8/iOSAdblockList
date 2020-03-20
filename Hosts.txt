@@ -11408,7 +11408,6 @@ static.woopra.com
 static.wpm.neustar.biz
 static.yieldmo.com
 static.yomedia.vn
-static.zdassets.com
 static2.8live.com
 static2.adtimaserver.vn
 static2.chartbeat.com
