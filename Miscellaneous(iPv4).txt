@@ -7779,7 +7779,6 @@
 0.0.0.0 smhwtfnews.com
 0.0.0.0 somicom.com
 0.0.0.0 southfront.org
-0.0.0.0 sputniknews.com
 0.0.0.0 stateofthenation2012.com
 0.0.0.0 stgeorgegazette.com
 0.0.0.0 stneotscitizen.com
