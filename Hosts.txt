@@ -4343,7 +4343,6 @@ cdn.isnssdk.com
 cdn.iubenda.com
 cdn.izooto.com
 cdn.jampp.com
-cdn.jsdelivr.net
 cdn.justpremium.com
 cdn.keywee.co
 cdn.krxd.net
@@ -5307,7 +5306,6 @@ cs.marinsm.com
 cs.media.net
 cs.yieldoptimizer.com
 cscdns.com
-cse.google.com
 csi.gstatic.com
 csp-collector.appspot.com
 cspreporter.optimizely.com
@@ -5409,6 +5407,7 @@ d1nx2jii03b4ju.cloudfront.net
 d1yu67rmchodpo.cloudfront.net
 d2.hadarone.com
 d2.shared.global.fastly.net
+d25jbgvg9kmxad.cloudfront.net
 d2cmedia.ca
 d2glav2919q4cw.cloudfront.net
 d3.condenast.servedbyopenx.com
@@ -5775,6 +5774,7 @@ dmp.ivitrack.com
 dmp.mgid.com
 dmp.starbolt.io
 dmp.theadex.com
+dmp.truoptik.com
 dmpstorage.adalliance.io
 dmpsync.3lift.com
 dmtracker.com
@@ -7823,6 +7823,7 @@ ipe.ivitrack.com
 ipe.pcwelt.de
 iperceptions.com
 iphonelife-collector.us-west-2.elasticbeanstalk.com
+ipinfo.io
 ipinvite.iperceptions.com
 ipinyou.cm.admaster.com.cn
 ipinyou.com
@@ -11938,6 +11939,7 @@ server-uk.imrworldwide.com
 server-us.imrworldwide.com
 server-ve.imrworldwide.com
 server.chitika.com
+server.exposebox.com
 server.iad.liveperson.net
 server.ib.adnxs.com
 server.idreams.pl
@@ -12373,6 +12375,7 @@ ssl-vg03.met.vgwort.de
 ssl.1.damoh.giga.de
 ssl.1.damoh.pcgameshardware.de
 ssl.2.damoh.pcgameshardware.de
+ssl.3.damoh.giga.de
 ssl.ad.dotandad.com
 ssl.dl.g15.letvlb.com
 ssl.gft2.de
@@ -14879,6 +14882,7 @@ www.ssacdn.com
 www.startapp.com
 www.startappexchange.com
 www.statsforads.com
+www.storygize.net
 www.strikead.com
 www.supersonic.com
 www.supersonicads.com
