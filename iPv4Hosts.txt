@@ -4343,7 +4343,6 @@
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 cdn.izooto.com
 0.0.0.0 cdn.jampp.com
-0.0.0.0 cdn.jsdelivr.net
 0.0.0.0 cdn.justpremium.com
 0.0.0.0 cdn.keywee.co
 0.0.0.0 cdn.krxd.net
@@ -5307,7 +5306,6 @@
 0.0.0.0 cs.media.net
 0.0.0.0 cs.yieldoptimizer.com
 0.0.0.0 cscdns.com
-0.0.0.0 cse.google.com
 0.0.0.0 csi.gstatic.com
 0.0.0.0 csp-collector.appspot.com
 0.0.0.0 cspreporter.optimizely.com
@@ -5409,6 +5407,7 @@
 0.0.0.0 d1yu67rmchodpo.cloudfront.net
 0.0.0.0 d2.hadarone.com
 0.0.0.0 d2.shared.global.fastly.net
+0.0.0.0 d25jbgvg9kmxad.cloudfront.net
 0.0.0.0 d2cmedia.ca
 0.0.0.0 d2glav2919q4cw.cloudfront.net
 0.0.0.0 d3.condenast.servedbyopenx.com
@@ -5775,6 +5774,7 @@
 0.0.0.0 dmp.mgid.com
 0.0.0.0 dmp.starbolt.io
 0.0.0.0 dmp.theadex.com
+0.0.0.0 dmp.truoptik.com
 0.0.0.0 dmpstorage.adalliance.io
 0.0.0.0 dmpsync.3lift.com
 0.0.0.0 dmtracker.com
@@ -7823,6 +7823,7 @@
 0.0.0.0 ipe.pcwelt.de
 0.0.0.0 iperceptions.com
 0.0.0.0 iphonelife-collector.us-west-2.elasticbeanstalk.com
+0.0.0.0 ipinfo.io
 0.0.0.0 ipinvite.iperceptions.com
 0.0.0.0 ipinyou.cm.admaster.com.cn
 0.0.0.0 ipinyou.com
@@ -11938,6 +11939,7 @@
 0.0.0.0 server-us.imrworldwide.com
 0.0.0.0 server-ve.imrworldwide.com
 0.0.0.0 server.chitika.com
+0.0.0.0 server.exposebox.com
 0.0.0.0 server.iad.liveperson.net
 0.0.0.0 server.ib.adnxs.com
 0.0.0.0 server.idreams.pl
@@ -12373,6 +12375,7 @@
 0.0.0.0 ssl.1.damoh.giga.de
 0.0.0.0 ssl.1.damoh.pcgameshardware.de
 0.0.0.0 ssl.2.damoh.pcgameshardware.de
+0.0.0.0 ssl.3.damoh.giga.de
 0.0.0.0 ssl.ad.dotandad.com
 0.0.0.0 ssl.dl.g15.letvlb.com
 0.0.0.0 ssl.gft2.de
@@ -14879,6 +14882,7 @@
 0.0.0.0 www.startapp.com
 0.0.0.0 www.startappexchange.com
 0.0.0.0 www.statsforads.com
+0.0.0.0 www.storygize.net
 0.0.0.0 www.strikead.com
 0.0.0.0 www.supersonic.com
 0.0.0.0 www.supersonicads.com
