@@ -8113,7 +8113,6 @@
 0.0.0.0 www.youngcons.com
 0.0.0.0 www.zambianobserver.com
 0.0.0.0 www.zeppfeed.com
-0.0.0.0 www.zerohedge.com
 0.0.0.0 www.zootfeed.com
 0.0.0.0 yournationnews.com
 0.0.0.0 yournewswire.com
