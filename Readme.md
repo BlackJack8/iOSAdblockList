@@ -4,11 +4,11 @@ This list is focused on iOS and can be used on Android devices.
 
 In order to get notified from an update, mark my repository as "watched".
 
-If you notice ads then please tell me via reddit u/neidhardterik . (Note that ads on Youtube, Messenger, Instagram and some other social media platforms can't be blocked due to the host format.)
+If you notice ads, please create an issue or contact me via reddit u/neidhardterik . (Note that ads on Youtube, Messenger, Instagram and some other social media platforms can't be blocked due to the host format.)
 
 Miscellaneous is a list that blocks fake news, crypto miners and scam websites.
 
-For new users i recommend Adguard Pro, as it allows you to subscribe to a list without the need of manually adding the list after an update.
+For new users i recommend Adguard Pro, as it allows you to subscribe to a list without the need of manually updating the list.
 
 ___________________________________________________________________________________________________________________________________
 
