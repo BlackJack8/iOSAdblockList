@@ -7964,7 +7964,6 @@
 0.0.0.0 www.eutimes.net
 0.0.0.0 www.everynewshere.com
 0.0.0.0 www.ewao.com
-0.0.0.0 www.express.co.uk
 0.0.0.0 www.eyeopening.info
 0.0.0.0 www.floridasunpost.com
 0.0.0.0 www.fort-russ.com
