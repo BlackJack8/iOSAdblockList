@@ -57,7 +57,6 @@
 99centptc.com
 9bux.info
 9icebux.com
-A.W. Surveys
 AAA-mails.com
 Abovebux.com
 Abux1.cn
@@ -641,7 +640,7 @@ ecash-generator.info
 e-clickz.com
 e-dollar.com
 egyptclicks.com
-e-dollar.**
+e-dollar.*
 egyptianclicks.info
 egyptptc.com
 electron-mails.com
@@ -1002,7 +1001,7 @@ LollipopMails.com
 lookingemail.com
 lorikcash.info
 lotionclicks.info
-loveads.**
+loveads.*
 lovebird-mails.com
 Loving-Mail.com
 lowonbux.net

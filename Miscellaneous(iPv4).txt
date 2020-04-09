@@ -57,7 +57,6 @@
 0.0.0.0 99centptc.com
 0.0.0.0 9bux.info
 0.0.0.0 9icebux.com
-0.0.0.0 A.W. Surveys
 0.0.0.0 AAA-mails.com
 0.0.0.0 Abovebux.com
 0.0.0.0 Abux1.cn
@@ -641,7 +640,7 @@
 0.0.0.0 e-clickz.com
 0.0.0.0 e-dollar.com
 0.0.0.0 egyptclicks.com
-0.0.0.0 e-dollar.**
+0.0.0.0 e-dollar.*
 0.0.0.0 egyptianclicks.info
 0.0.0.0 egyptptc.com
 0.0.0.0 electron-mails.com
@@ -1002,7 +1001,7 @@
 0.0.0.0 lookingemail.com
 0.0.0.0 lorikcash.info
 0.0.0.0 lotionclicks.info
-0.0.0.0 loveads.**
+0.0.0.0 loveads.*
 0.0.0.0 lovebird-mails.com
 0.0.0.0 Loving-Mail.com
 0.0.0.0 lowonbux.net
