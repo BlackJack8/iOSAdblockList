@@ -1,10 +1,9 @@
-050003.voodoo.com
-050005.voodoo.com
+050003.voodoo.io
+050005.voodoo.io
 0914.global.ssl.fastly.net
 0c3-a.tlnk.io
 1-100-62-1.b.cdn13.com
 101order.com
-1049.b.akamai.net
 1197817332.peerclicktrk.com
 123found.com
 123mov.is
@@ -20,7 +19,6 @@
 189638.engine.mobileapptracking.com
 19534.redirect.appmetrica.yandex.com
 1bb821ddb967b3e010b63f2a2f3308e3.api.appsee.com
-1fjiw5x.oloadcdn.net
 1mp.mobi
 1phads.com
 1x1rank.com
@@ -129,8 +127,6 @@ a-srvjsr.media.net
 a-ssl.ligatus.com
 a-usa.applovin.com
 a-v2.presage.io
-a.0day.kiev.ua
-a.26f396e0b71780f057be4d4af8ebe55b.com
 a.2edd6c0fea91f88494d1cc37672db524.com
 a.3fdf2a5f924760915ca68b5ad01cfdae.com
 a.acrabakasaka.com
@@ -156,14 +152,12 @@ a.be190691ee4296b5bcff708f97100c09.com
 a.be74465973a07d9e41423b3f82c69aad.com
 a.bestcontentprogram.top
 a.bf-ad.net
-a.bf-tools.net
 a.bf-tools.net.edgekey.net
 a.bitmango.com
 a.blueserving.com
 a.c.appier.net
 a.chartboost.com
 a.clickyab.com
-a.collective-media.net
 a.consensad.com
 a.consumer.net
 a.d.mojigaga.com
@@ -224,7 +218,6 @@ a2dfp.net
 a2pub.com
 a3.chartboost.com
 a301.w62d.akamai.net
-a32.g.a.yimg.com
 a50.g2.akamai.net
 a9.com
 aa-d.openx.net
@@ -271,7 +264,6 @@ ac.rnm.ca
 ac8fa7667e3813ce8699c44b5aa71900f.profile.tpe50-c1.cloudfront.net
 acc.magixite.com
 accelifyhelp.zendesk.com
-access.adblox.net
 access.conversantmedia.com
 accessrequest.taboola.com
 accesstrade.com
@@ -279,7 +271,6 @@ accesstrade.com.vn
 accesstrade.vn
 account.fyber.com
 accounts.doubleclick.net
-accounts.pkr.com.invalid
 accscdn.m.taobao.com
 acdn.adnxs.com
 acdn.prod.pubstack.io
@@ -328,7 +319,6 @@ ad-emea.doubleclick.net
 ad-ettoday.cdn.hinet.net
 ad-eu-west.ipredictive.com
 ad-g.doubleclick.net
-ad-images.suntimes.com
 ad-l1.media6degrees.com
 ad-l2.media6degrees.com
 ad-maven.com
@@ -344,7 +334,6 @@ ad-sdk-platform.ubeejoy.com
 ad-sdk.altamob.xiaoying.co
 ad-server.eu
 ad-server.gulasidorna.se
-ad-serverparc.nl
 ad-souk.com
 ad-space.net
 ad-specs.guoshipartners.com
@@ -354,7 +343,6 @@ ad-tag.inner-active.mobi
 ad-tech.com
 ad-up.com
 ad-us-west.ipredictive.com
-ad-yt-bfp.doubleclick.net
 ad.100.tbn.ru
 ad.103092804.com
 ad.24h.com.vn
@@ -368,12 +356,10 @@ ad.a8.net
 ad.abcnews.com
 ad.abctv.com
 ad.about.com
-ad.aboutit.de
 ad.aboutwebservices.com
 ad.abum.com
 ad.ad-srv.net
 ad.adapter.kaffnet.com
-ad.adip.ly
 ad.adnet.de
 ad.adnow.com
 ad.adrttt.com
@@ -395,7 +381,6 @@ ad.ar.doubleclick.net
 ad.at.doubleclick.net
 ad.atdmt.com
 ad.au.doubleclick.net
-ad.audio-ak.cdn.spotify.com
 ad.auditude.com
 ad.be.doubleclick.net
 ad.bg.doubleclick.net
@@ -410,7 +395,6 @@ ad.cauly.co.kr
 ad.centrum.cz
 ad.cgi.cz
 ad.ch.doubleclick.net
-ad.choiceradio.com
 ad.cl.doubleclick.net
 ad.click.kaffnet.com
 ad.clix.pt
@@ -421,17 +405,13 @@ ad.crwdcntrl.net
 ad.databerries.com
 ad.de.doubleclick.net
 ad.digitallook.com
-ad.directrev.com
 ad.dk.doubleclick.net
-ad.doctissimo.fr
 ad.domainfactory.de
 ad.doubleclick.net
 ad.duapps.com
-ad.e-kolay.net
 ad.eg.doubleclick.net
 ad.es.doubleclick.net
 ad.eurosport.com
-ad.eurosport.de
 ad.f1cd.ru
 ad.flipboard.com
 ad.flurry.com
@@ -440,7 +420,6 @@ ad.foxnetworks.com
 ad.fr.doubleclick.net
 ad.freecity.de
 ad.gate24.ch
-ad.globe7.com
 ad.go.affec.tv
 ad.gr.doubleclick.net
 ad.grafika.cz
@@ -473,8 +452,6 @@ ad.kr.doubleclick.net
 ad.lavanetwork.net
 ad.leadbolt.net
 ad.leadboltads.net
-ad.leadboltapps.net
-ad.leadboltmobile.net
 ad.linkprice.com
 ad.linksynergy.com
 ad.lionmobi.com
@@ -483,7 +460,6 @@ ad.lkqd.net
 ad.lomadee.com
 ad.lupa.cz
 ad.m5prod.net
-ad.madvertise.de
 ad.media-servers.net
 ad.media6degrees.com
 ad.mediabong.com
@@ -499,13 +475,11 @@ ad.mwork.vn
 ad.myinstashot.com
 ad.n2434.doubleclick.net
 ad.nachtagenten.de
-ad.nexage.com
 ad.nl.doubleclick.net
 ad.northparkapp.com
 ad.nozonedata.com
 ad.nttnavi.co.jp
 ad.nwt.cz
-ad.onad.eu
 ad.org.vn
 ad.pandora.tv
 ad.perfectaudience.com
@@ -535,7 +509,6 @@ ad.seznam.cz
 ad.sg.doubleclick.net
 ad.si.doubleclick.net
 ad.simgames.net
-ad.slutload.com
 ad.smaad.jp
 ad.smartclip.net
 ad.tapjoy.click
@@ -544,18 +517,14 @@ ad.technoratimedia.com
 ad.terra.doubleclick.net
 ad.test.ximalaya.com
 ad.th.doubleclick.net
-ad.thewheelof.com
-ad.top50.to
 ad.toutiao.com
 ad.turn.com
 ad.tv2.no
-ad.twitchguru.com
 ad.uk.doubleclick.net
 ad.usatoday.com
 ad.virtual-nights.com
 ad.vkool.net
 ad.vrvm.com
-ad.watch.impress.co.jp
 ad.wavu.hu
 ad.way.cz
 ad.weatherbug.com
@@ -569,7 +538,6 @@ ad.zanox.com
 ad.zing.vn
 ad0.bigmir.net
 ad01.mediacorpsingapore.com
-ad1.adinfuse.com
 ad1.emediate.dk
 ad1.emule-project.org
 ad1.kde.cz
@@ -582,13 +550,10 @@ ad13.adfarm1.adition.com
 ad131m.com
 ad132m.com
 ad18.ad-srv.net
-ad2.adinfuse.com
 ad2.apx.appier.net
 ad2.cdns.turn.com
 ad2.doubleclick.net
 ad2.iinfo.cz
-ad2.ip.ro
-ad2.linxcz.cz
 ad2.lupa.cz
 ad2flash.com
 ad2games-adserver-production.eu-west-1.elasticbeanstalk.com
@@ -625,7 +590,6 @@ adbard.net
 adbetnet.advertserve.com
 adblade.com
 adblockanalytics.com
-adboost.de.vu
 adboost.net
 adbooth.com
 adbooth.net
@@ -637,7 +601,6 @@ adbrix-trk-was-prod.ap-northeast-1.elasticbeanstalk.com
 adbro.me
 adbro.rtbid.me
 adbroker.de
-adbsc.mobinativeads.com
 adbsdk.flyermobi.com
 adbuddiz.com
 adbunker.com
@@ -665,7 +628,6 @@ adchoices.info
 adchoices.net
 adchoices.org
 adcito.com
-adclear.teufel.de
 adclick.com
 adclick.g.doublecklick.net
 adclick.g.doubleclick.net
@@ -744,14 +706,11 @@ adhese.com
 adhitzads.com
 adhood.com
 adi.admicro.vn
-adi.mainichi.co.jp
-adimage.asiaone.com.sg
 adimage.guardian.co.uk
 adimages.been.com
 adimages.carsoup.com
 adimages.go.com
 adimages.homestore.com
-adimages.omroepzeeland.nl
 adimages.sanomawsoy.fi
 adimg.cnet.com
 adimg.com.com
@@ -815,7 +774,6 @@ admagnet.net
 admail.admicro.vn
 admailtiser.com
 adman.gr
-adman.in.gr
 adman.otenet.gr
 admanagement.ch
 admanager.btopenworld.com
@@ -5740,7 +5698,6 @@ divostat.game-insight.com
 diwanee-d.openx.net
 dj1.baidu.com
 djax.com
-djvbdz1obemzo.cloudfront.net
 dk-gmtdmp.mookie1.com
 dk4ywix.com
 dkpartners.backstopsolutions.com
@@ -7322,7 +7279,6 @@ i16-tb.sgsnssdk.com.edgekey.net
 i1img.com
 i1media.no
 i2.myapkcdn.in
-i2.wp.com
 i2ad.jp
 i5-img.7tv.de
 ia.iinfo.cz
@@ -8127,6 +8083,7 @@ labs.revcontent.com
 labs.taplytics.com
 lacerta.iad-03.appboy.com
 lacerta.iad.appboy.com
+ladsblue.com
 lakequincy.com
 lalande.iad-03.braze.com
 lampenwelttracksdk.optimove.net
@@ -9705,7 +9662,6 @@ oclaserver.com
 oclasrv.com
 oconner.biz
 ocsp.comodoca.com
-ocsp.sectigo.com
 ocx.umeng.com
 odm.nielsen.com
 odr.mookie1.com
@@ -11444,6 +11400,7 @@ s3m.mediav.com
 s400.mxcdn.net
 s407.meetrics.net
 s6.chatango.com
+s622247381.onlinehome.fr
 s7.addthis.com
 s79.research.de.com
 s8t.teads.tv
@@ -13112,6 +13069,7 @@ tailsweep.co.uk
 tailsweep.com
 tailsweep.se
 tajs.qq.com
+takeyourprizesnow4.life
 takip.site
 takoomi-d.openx.net
 takru.com
@@ -13424,8 +13382,6 @@ townsquaremedia-d.openx.net
 toyota.vo.llnwd.net
 tp-emea.exactag.com
 tp-rtb-adserver-eu.eu-west-1.elasticbeanstalk.com
-tp.4d5ad1d2b-frontier.amazon.co.jp
-tp.abe2c2f23-frontier.amazon.de
 tpa-d.openx.net
 tpbid.com
 tpc.googlesyndication.com
@@ -15056,6 +15012,7 @@ yourblocksite.com
 youtrack.mgid.com
 youtu.cm.admaster.com.cn
 yoyi-cm.admaster.com.cn
+yqwu.jg-hoareau.fr
 ysc.yumenetworks.com
 ysdk.qq.com
 yt.mmstat.com
