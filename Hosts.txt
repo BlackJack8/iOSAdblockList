@@ -12562,7 +12562,6 @@ static.ligatus.com
 static.liveintercept.com
 static.locallogic.co
 static.lucky88.com
-static.makeuseof.com
 static.masoffer.net
 static.matterport.com
 static.media.net
