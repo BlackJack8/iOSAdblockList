@@ -12562,7 +12562,6 @@
 0.0.0.0 static.liveintercept.com
 0.0.0.0 static.locallogic.co
 0.0.0.0 static.lucky88.com
-0.0.0.0 static.makeuseof.com
 0.0.0.0 static.masoffer.net
 0.0.0.0 static.matterport.com
 0.0.0.0 static.media.net
