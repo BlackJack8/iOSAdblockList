@@ -1821,7 +1821,6 @@
 0.0.0.0 adstracker.appsgeyser.com
 0.0.0.0 adstripod.lycos.co.uk
 0.0.0.0 adstune.com
-0.0.0.0 adstxt.adnxs.com
 0.0.0.0 adsunflower.com
 0.0.0.0 adsupply.com
 0.0.0.0 adsupplyads.com
@@ -2508,7 +2507,6 @@
 0.0.0.0 api-analytics-bootstrap.metaps.com
 0.0.0.0 api-analytics.metaps.com
 0.0.0.0 api-bts.logsss.com
-0.0.0.0 api-cache.adsnative.com
 0.0.0.0 api-cdn.mypoints.com
 0.0.0.0 api-compatible.mixpanel.com
 0.0.0.0 api-data.kameleoon.com
@@ -2567,7 +2565,6 @@
 0.0.0.0 api.ads.watchabc.go.com
 0.0.0.0 api.adsafeprotected.com
 0.0.0.0 api.adskeeper.co.uk
-0.0.0.0 api.adsnative.com
 0.0.0.0 api.adsymptotic.com
 0.0.0.0 api.adthor.com
 0.0.0.0 api.adtimaserver.vn
@@ -2890,7 +2887,6 @@
 0.0.0.0 api.zwizzarmyknife.com
 0.0.0.0 api2.batmobi.net
 0.0.0.0 api2.bounceexchange.com
-0.0.0.0 api2.branch.io
 0.0.0.0 api2.chartbeat.com
 0.0.0.0 api2.poperblocker.com
 0.0.0.0 api2.restartad.com
@@ -2964,7 +2960,6 @@
 0.0.0.0 app.izea.com
 0.0.0.0 app.kiip.me
 0.0.0.0 app.leadfeeder.com
-0.0.0.0 app.link
 0.0.0.0 app.marketo.com
 0.0.0.0 app.masoffer.net
 0.0.0.0 app.matheranalytics.com
@@ -3312,7 +3307,6 @@
 0.0.0.0 awaf.answers.nielsen.com
 0.0.0.0 aweme.snssdk.com
 0.0.0.0 awempire.com
-0.0.0.0 awin1.com
 0.0.0.0 aws-production-banner-server-eu-west-1.banner-server.fyber.com
 0.0.0.0 aws.banner-server.fyber.com
 0.0.0.0 aws.interstitial-broker.fyber.com
@@ -3666,7 +3660,6 @@
 0.0.0.0 betareportcentral.doubleclick.net
 0.0.0.0 betrad.com
 0.0.0.0 betsonsport.ru
-0.0.0.0 bevo.adsnative.com
 0.0.0.0 bffmetercom.cleverpush.com
 0.0.0.0 bgrndi.com
 0.0.0.0 bh.contextweb.com
@@ -4211,7 +4204,6 @@
 0.0.0.0 cdn.ads.fotoable.net
 0.0.0.0 cdn.adsafeprotected.com
 0.0.0.0 cdn.adserver.b2c.com
-0.0.0.0 cdn.adsnative.com
 0.0.0.0 cdn.adsoptimal.com
 0.0.0.0 cdn.adspirit.de
 0.0.0.0 cdn.adswizz.com
@@ -5296,7 +5288,6 @@
 0.0.0.0 customers.kameleoon.com
 0.0.0.0 customs3.inpref.com
 0.0.0.0 customtraffic.impactradius.com
-0.0.0.0 cuyc.app.link
 0.0.0.0 cv.accesstrade.vn
 0.0.0.0 cvision.media.net
 0.0.0.0 cvr.ad-brix.com
@@ -5786,6 +5777,7 @@
 0.0.0.0 down1-usa.tutubeer.com
 0.0.0.0 download.bav.baidu.com
 0.0.0.0 download.sd.baidu.com
+0.0.0.0 doy3na3p1qial.cloudfront.net
 0.0.0.0 dp-sync.dotomi.com
 0.0.0.0 dp.g.doubleclick.net
 0.0.0.0 dpm.demdex.net
@@ -6957,7 +6949,6 @@
 0.0.0.0 gts-ads.twistbox.com
 0.0.0.0 gtsads.com
 0.0.0.0 gtsdk.batmobi.net
-0.0.0.0 gtsmobi.com
 0.0.0.0 gtssl2-ocsp.geotrust.com
 0.0.0.0 gu-pix.appspot.com
 0.0.0.0 gu.dyntrk.com
@@ -7841,7 +7832,6 @@
 0.0.0.0 iu.snssdk.com.edgekey.net
 0.0.0.0 iv.doubleclick.net
 0.0.0.0 ivid-cdn.adhigh.net
-0.0.0.0 ivid-f5-us-va.adhigh.net
 0.0.0.0 ivitrack.com
 0.0.0.0 ivykiosk.com
 0.0.0.0 ivypixel.com
@@ -8282,7 +8272,6 @@
 0.0.0.0 log.adap.tv
 0.0.0.0 log.adaptv.advertising.com
 0.0.0.0 log.adplex.co.kr
-0.0.0.0 log.adsplay.net
 0.0.0.0 log.adtimaserver.vn
 0.0.0.0 log.advalue.com.vn
 0.0.0.0 log.adywind.com
@@ -8549,11 +8538,8 @@
 0.0.0.0 mallmotion.com
 0.0.0.0 malware-check.disconnect.me
 0.0.0.0 malware-scan.com
-0.0.0.0 mam.ad-balancer.at
 0.0.0.0 manage.com
 0.0.0.0 manager.tagcommander.com
-0.0.0.0 mangarock-alternate.app.link
-0.0.0.0 mangarock.app.link
 0.0.0.0 manhattan.leadforensics.com
 0.0.0.0 manifest.53.localytics.com
 0.0.0.0 manifest.localytics.com
@@ -9237,7 +9223,6 @@
 0.0.0.0 mssplog.emarbox.com
 0.0.0.0 mstr.sharethrough.com
 0.0.0.0 mstrlytcs.com
-0.0.0.0 mt.analytics.163.com
 0.0.0.0 mt.rtmark.net
 0.0.0.0 mtag.adxcore.com
 0.0.0.0 mtag.mman.kr
@@ -11239,7 +11224,6 @@
 0.0.0.0 ru.cdn5.onthe.io
 0.0.0.0 ru.gwallet.com
 0.0.0.0 ru.track.uc.cn
-0.0.0.0 ru.velti.com
 0.0.0.0 ru4.com
 0.0.0.0 rub-winners-ap-northeast-1-rtb.adroll.com
 0.0.0.0 rub-winners-eu-west-1-rtb.adroll.com
@@ -11250,9 +11234,7 @@
 0.0.0.0 rubicon-east-bidder.manage.com
 0.0.0.0 rubicon-east2-bidder.manage.com
 0.0.0.0 rubicon-match.dotomi.com
-0.0.0.0 rubicon-tagan.adlightning.com
 0.0.0.0 rubiconproject.com
-0.0.0.0 rudy.adsnative.com
 0.0.0.0 rulerabbit.com
 0.0.0.0 rules.aatkit.com
 0.0.0.0 rules.quantcount.com
@@ -11562,7 +11544,6 @@
 0.0.0.0 sdk-vmh.prod-univision.com
 0.0.0.0 sdk.a4.tl
 0.0.0.0 sdk.ad.smaato.net
-0.0.0.0 sdk.adbuddiz.com
 0.0.0.0 sdk.adincube.com
 0.0.0.0 sdk.adotmob.com
 0.0.0.0 sdk.adsongo.com
@@ -12562,6 +12543,7 @@
 0.0.0.0 static.liveintercept.com
 0.0.0.0 static.locallogic.co
 0.0.0.0 static.lucky88.com
+0.0.0.0 static.makeuseof.com
 0.0.0.0 static.masoffer.net
 0.0.0.0 static.matterport.com
 0.0.0.0 static.media.net
@@ -13205,7 +13187,6 @@
 0.0.0.0 tgw-masdk.3g.qq.com
 0.0.0.0 tgw-sasdk.3g.qq.com
 0.0.0.0 th-gmtdmp.mookie1.com
-0.0.0.0 thales.adsrvr.org
 0.0.0.0 thanatos.branch.io
 0.0.0.0 tharbadir.com
 0.0.0.0 the-bitcoin-circuit.com
@@ -13576,7 +13557,6 @@
 0.0.0.0 tracking.adkomo.com
 0.0.0.0 tracking.admarketplace.net
 0.0.0.0 tracking.admarketplace.net.edgekey.net
-0.0.0.0 tracking.admobsphere.com
 0.0.0.0 tracking.adsafety.net
 0.0.0.0 tracking.adsdot.co.kr
 0.0.0.0 tracking.adsrv.io
@@ -13615,6 +13595,7 @@
 0.0.0.0 tracking.mobileadstrk.com
 0.0.0.0 tracking.mobinetad.com
 0.0.0.0 tracking.musixmatch.com
+0.0.0.0 tracking.oe24.at
 0.0.0.0 tracking.onefeed.co.uk
 0.0.0.0 tracking.pandoiq.com
 0.0.0.0 tracking.perfecttoolmedia.com
@@ -13797,6 +13778,7 @@
 0.0.0.0 tt.mbww.com
 0.0.0.0 tt.onthe.io
 0.0.0.0 ttd.ads.placeiq.com
+0.0.0.0 ttplugins.ttpsdk.info
 0.0.0.0 ttringwall.com
 0.0.0.0 ttt.onthe.io
 0.0.0.0 tu.moatads.com
@@ -14348,7 +14330,6 @@
 0.0.0.0 visualrevenue.com
 0.0.0.0 viumbe-d.openx.net
 0.0.0.0 vivaki.demdex.net
-0.0.0.0 vk.com
 0.0.0.0 vkcdnservice.appspot.com
 0.0.0.0 vm5apis.com
 0.0.0.0 vmed.vrtcal.com
@@ -14683,7 +14664,6 @@
 0.0.0.0 www.aarki.com
 0.0.0.0 www.ad-server.eu
 0.0.0.0 www.ad4mat.de
-0.0.0.0 www.adbuddiz.com
 0.0.0.0 www.adcash.com
 0.0.0.0 www.adchoices.com
 0.0.0.0 www.adcolony.org
@@ -14769,7 +14749,6 @@
 0.0.0.0 www.instantreward.site
 0.0.0.0 www.ironsource.com
 0.0.0.0 www.jampp.com
-0.0.0.0 www.jumptab.com
 0.0.0.0 www.kaplanindex.com
 0.0.0.0 www.kii.com
 0.0.0.0 www.kiip.com
@@ -14783,7 +14762,6 @@
 0.0.0.0 www.madvertise.com
 0.0.0.0 www.markmonitor.com
 0.0.0.0 www.matomy.com
-0.0.0.0 www.millenialmedia.com
 0.0.0.0 www.millennialmedia.com
 0.0.0.0 www.minimob.com
 0.0.0.0 www.mmedia.com
@@ -14942,6 +14920,7 @@
 0.0.0.0 xxxcounter.com
 0.0.0.0 xxxmyself.com
 0.0.0.0 xy7elite.com
+0.0.0.0 xyz
 0.0.0.0 xz15801.com
 0.0.0.0 y.ibsys.com
 0.0.0.0 y.moatads.com
@@ -14950,7 +14929,6 @@
 0.0.0.0 yabuka.com
 0.0.0.0 yacurlik.com
 0.0.0.0 yahoo.media.net
-0.0.0.0 yandex.ru
 0.0.0.0 yandexadexchange.net
 0.0.0.0 yardbarker.tags.crwdcntrl.net
 0.0.0.0 yax-winners-ap-southeast-1-rtb.adroll.com
