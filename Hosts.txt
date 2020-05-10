@@ -1821,7 +1821,6 @@ adstextview.qq.com
 adstracker.appsgeyser.com
 adstripod.lycos.co.uk
 adstune.com
-adstxt.adnxs.com
 adsunflower.com
 adsupply.com
 adsupplyads.com
@@ -2508,7 +2507,6 @@ api-08.com
 api-analytics-bootstrap.metaps.com
 api-analytics.metaps.com
 api-bts.logsss.com
-api-cache.adsnative.com
 api-cdn.mypoints.com
 api-compatible.mixpanel.com
 api-data.kameleoon.com
@@ -2567,7 +2565,6 @@ api.adrtx.net
 api.ads.watchabc.go.com
 api.adsafeprotected.com
 api.adskeeper.co.uk
-api.adsnative.com
 api.adsymptotic.com
 api.adthor.com
 api.adtimaserver.vn
@@ -2890,7 +2887,6 @@ api.zcoup.com
 api.zwizzarmyknife.com
 api2.batmobi.net
 api2.bounceexchange.com
-api2.branch.io
 api2.chartbeat.com
 api2.poperblocker.com
 api2.restartad.com
@@ -2964,7 +2960,6 @@ app.instartlogic.com
 app.izea.com
 app.kiip.me
 app.leadfeeder.com
-app.link
 app.marketo.com
 app.masoffer.net
 app.matheranalytics.com
@@ -3312,7 +3307,6 @@ aw.advertica-cdn.com
 awaf.answers.nielsen.com
 aweme.snssdk.com
 awempire.com
-awin1.com
 aws-production-banner-server-eu-west-1.banner-server.fyber.com
 aws.banner-server.fyber.com
 aws.interstitial-broker.fyber.com
@@ -3666,7 +3660,6 @@ beta.pocketads.pl
 betareportcentral.doubleclick.net
 betrad.com
 betsonsport.ru
-bevo.adsnative.com
 bffmetercom.cleverpush.com
 bgrndi.com
 bh.contextweb.com
@@ -4211,7 +4204,6 @@ cdn.adrunnr.com
 cdn.ads.fotoable.net
 cdn.adsafeprotected.com
 cdn.adserver.b2c.com
-cdn.adsnative.com
 cdn.adsoptimal.com
 cdn.adspirit.de
 cdn.adswizz.com
@@ -5296,7 +5288,6 @@ customer.iad-03.braze.com
 customers.kameleoon.com
 customs3.inpref.com
 customtraffic.impactradius.com
-cuyc.app.link
 cv.accesstrade.vn
 cvision.media.net
 cvr.ad-brix.com
@@ -5786,6 +5777,7 @@ dove.prod.saymedia.com
 down1-usa.tutubeer.com
 download.bav.baidu.com
 download.sd.baidu.com
+doy3na3p1qial.cloudfront.net
 dp-sync.dotomi.com
 dp.g.doubleclick.net
 dpm.demdex.net
@@ -6957,7 +6949,6 @@ gtop100.com
 gts-ads.twistbox.com
 gtsads.com
 gtsdk.batmobi.net
-gtsmobi.com
 gtssl2-ocsp.geotrust.com
 gu-pix.appspot.com
 gu.dyntrk.com
@@ -7841,7 +7832,6 @@ itsptp.com
 iu.snssdk.com.edgekey.net
 iv.doubleclick.net
 ivid-cdn.adhigh.net
-ivid-f5-us-va.adhigh.net
 ivitrack.com
 ivykiosk.com
 ivypixel.com
@@ -8282,7 +8272,6 @@ log.ad.xiaomi.com
 log.adap.tv
 log.adaptv.advertising.com
 log.adplex.co.kr
-log.adsplay.net
 log.adtimaserver.vn
 log.advalue.com.vn
 log.adywind.com
@@ -8549,11 +8538,8 @@ mainadv.com
 mallmotion.com
 malware-check.disconnect.me
 malware-scan.com
-mam.ad-balancer.at
 manage.com
 manager.tagcommander.com
-mangarock-alternate.app.link
-mangarock.app.link
 manhattan.leadforensics.com
 manifest.53.localytics.com
 manifest.localytics.com
@@ -9237,7 +9223,6 @@ msspjh.emarbox.com
 mssplog.emarbox.com
 mstr.sharethrough.com
 mstrlytcs.com
-mt.analytics.163.com
 mt.rtmark.net
 mtag.adxcore.com
 mtag.mman.kr
@@ -11239,7 +11224,6 @@ ru-traffic.com
 ru.cdn5.onthe.io
 ru.gwallet.com
 ru.track.uc.cn
-ru.velti.com
 ru4.com
 rub-winners-ap-northeast-1-rtb.adroll.com
 rub-winners-eu-west-1-rtb.adroll.com
@@ -11250,9 +11234,7 @@ rubick.gameanalytics.com
 rubicon-east-bidder.manage.com
 rubicon-east2-bidder.manage.com
 rubicon-match.dotomi.com
-rubicon-tagan.adlightning.com
 rubiconproject.com
-rudy.adsnative.com
 rulerabbit.com
 rules.aatkit.com
 rules.quantcount.com
@@ -11562,7 +11544,6 @@ sdk-vidmatic.streamrail.net
 sdk-vmh.prod-univision.com
 sdk.a4.tl
 sdk.ad.smaato.net
-sdk.adbuddiz.com
 sdk.adincube.com
 sdk.adotmob.com
 sdk.adsongo.com
@@ -12562,6 +12543,7 @@ static.ligatus.com
 static.liveintercept.com
 static.locallogic.co
 static.lucky88.com
+static.makeuseof.com
 static.masoffer.net
 static.matterport.com
 static.media.net
@@ -13205,7 +13187,6 @@ tgt.mmtro.com
 tgw-masdk.3g.qq.com
 tgw-sasdk.3g.qq.com
 th-gmtdmp.mookie1.com
-thales.adsrvr.org
 thanatos.branch.io
 tharbadir.com
 the-bitcoin-circuit.com
@@ -13576,7 +13557,6 @@ tracking.adgoji.com
 tracking.adkomo.com
 tracking.admarketplace.net
 tracking.admarketplace.net.edgekey.net
-tracking.admobsphere.com
 tracking.adsafety.net
 tracking.adsdot.co.kr
 tracking.adsrv.io
@@ -13615,6 +13595,7 @@ tracking.mlsat02.de
 tracking.mobileadstrk.com
 tracking.mobinetad.com
 tracking.musixmatch.com
+tracking.oe24.at
 tracking.onefeed.co.uk
 tracking.pandoiq.com
 tracking.perfecttoolmedia.com
@@ -13797,6 +13778,7 @@ tt.adcocktail.com
 tt.mbww.com
 tt.onthe.io
 ttd.ads.placeiq.com
+ttplugins.ttpsdk.info
 ttringwall.com
 ttt.onthe.io
 tu.moatads.com
@@ -14348,7 +14330,6 @@ visual-pagerank.fr
 visualrevenue.com
 viumbe-d.openx.net
 vivaki.demdex.net
-vk.com
 vkcdnservice.appspot.com
 vm5apis.com
 vmed.vrtcal.com
@@ -14683,7 +14664,6 @@ www.5rocks.io
 www.aarki.com
 www.ad-server.eu
 www.ad4mat.de
-www.adbuddiz.com
 www.adcash.com
 www.adchoices.com
 www.adcolony.org
@@ -14769,7 +14749,6 @@ www.inskinad.com
 www.instantreward.site
 www.ironsource.com
 www.jampp.com
-www.jumptab.com
 www.kaplanindex.com
 www.kii.com
 www.kiip.com
@@ -14783,7 +14762,6 @@ www.localytics.com
 www.madvertise.com
 www.markmonitor.com
 www.matomy.com
-www.millenialmedia.com
 www.millennialmedia.com
 www.minimob.com
 www.mmedia.com
@@ -14942,6 +14920,7 @@ xx.c.appier.net
 xxxcounter.com
 xxxmyself.com
 xy7elite.com
+xyz
 xz15801.com
 y.ibsys.com
 y.moatads.com
@@ -14950,7 +14929,6 @@ yab-adimages.s3.amazonaws.com
 yabuka.com
 yacurlik.com
 yahoo.media.net
-yandex.ru
 yandexadexchange.net
 yardbarker.tags.crwdcntrl.net
 yax-winners-ap-southeast-1-rtb.adroll.com
