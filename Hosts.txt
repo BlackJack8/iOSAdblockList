@@ -7287,7 +7287,6 @@ ibt-d.openx.net
 ibtuk-d.openx.net
 ibv.lijit.com
 ibza.romsenergy.com
-icanhazip.com
 icann.com
 ichannel-tb.isnssdk.com
 ichannel.isnssdk.com
@@ -13304,7 +13303,6 @@ townsquaremedia-d.openx.net
 toyota.vo.llnwd.net
 tp-emea.exactag.com
 tp-rtb-adserver-eu.eu-west-1.elasticbeanstalk.com
-tp.3fadf2433-frontier.imdb.com
 tpa-d.openx.net
 tpbid.com
 tpc.googlesyndication.com
