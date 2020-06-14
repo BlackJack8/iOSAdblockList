@@ -7287,7 +7287,6 @@
 0.0.0.0 ibtuk-d.openx.net
 0.0.0.0 ibv.lijit.com
 0.0.0.0 ibza.romsenergy.com
-0.0.0.0 icanhazip.com
 0.0.0.0 icann.com
 0.0.0.0 ichannel-tb.isnssdk.com
 0.0.0.0 ichannel.isnssdk.com
@@ -13304,7 +13303,6 @@
 0.0.0.0 toyota.vo.llnwd.net
 0.0.0.0 tp-emea.exactag.com
 0.0.0.0 tp-rtb-adserver-eu.eu-west-1.elasticbeanstalk.com
-0.0.0.0 tp.3fadf2433-frontier.imdb.com
 0.0.0.0 tpa-d.openx.net
 0.0.0.0 tpbid.com
 0.0.0.0 tpc.googlesyndication.com
