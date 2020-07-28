@@ -1265,6 +1265,7 @@ ads.kitchensync.pro
 ads.kompass.com
 ads.kontextua.com
 ads.krawall.de
+ads.leovegas.com
 ads.lesbianpersonals.com
 ads.lfstmedia.com
 ads.linkedin.com
@@ -2805,6 +2806,7 @@ api.recorder.duapps.com
 api.redshell.io
 api.restartad.com
 api.rhombusads.com
+api.rlcdn.com
 api.rqmob.com
 api.rvuzov.ru
 api.safedk.com
@@ -3960,6 +3962,7 @@ c.predictvideo.com
 c.pub.network
 c.quantserve.com
 c.r10.mopub.com
+c.ratrck.com
 c.richmetrics.com
 c.rigelink.com
 c.riskified.com
@@ -4153,6 +4156,7 @@ cdn-guile.akamaized.net
 cdn-highwinds.unityads.unity3d.com
 cdn-image.com
 cdn-lb.vungle.com
+cdn-magiclinks.trackonomics.net
 cdn-o7.outfit7.com
 cdn-origin.woopra.com
 cdn-otf-cas.adperfect.com
@@ -4260,6 +4264,7 @@ cdn.hdat.xyz
 cdn.heapanalytics.com
 cdn.hiido.com
 cdn.hot-mob.com
+cdn.imhd.io
 cdn.impactengine.com
 cdn.indicative.com
 cdn.innity.net
@@ -4320,10 +4325,12 @@ cdn.outfit7.com
 cdn.outfit7.com.wtxcdn.com
 cdn.pardot.com
 cdn.parsely.com
+cdn.permutive.com
 cdn.perzonalization.com
 cdn.platform.openx.com
 cdn.plyr.io
 cdn.podigee.com
+cdn.polyfill.io
 cdn.popcash.net
 cdn.promotionengine.com
 cdn.public.pushspring.com
@@ -4855,6 +4862,7 @@ col.eum-appdynamics.com
 col.mobileads.msn.com
 cold.localytics.com
 cold2.53.localytics.com
+collab.apps.mil
 collect-ap-northeast-1.tealiumiq.com
 collect-ap-southeast-2.tealiumiq.com
 collect-eu-central-1.tealiumiq.com
@@ -4929,6 +4937,7 @@ communicate.gimbal.com
 compactbanner.com
 company-target.com
 comparends.pro
+completehatch.com
 complex-media-d.openx.net
 component.p7s1.com
 composer.adcolony.com
@@ -5219,6 +5228,7 @@ crow.mezzobit.com
 crowd.fyber.com
 crowdgravity.com
 crownclam.com
+crrepo.com
 crtv.mate1.com
 crunchmind-d.openx.net
 crwdcntrl.net
@@ -5329,6 +5339,7 @@ d.shareaholic.com
 d.us.criteo.com
 d1.hadarone.com
 d1434efe2b199612ceb1692ee6b5c79c.lswcdn.net
+d1exbt14vyjc4u.cloudfront.net
 d1ks8roequxbwa.cloudfront.net
 d1nx2jii03b4ju.cloudfront.net
 d1yu67rmchodpo.cloudfront.net
@@ -5437,6 +5448,7 @@ dc0-ue1.foxmetrics.com
 dc2.answers.nielsen.com
 dc541.s407.meetrics.net
 dc5k8fg5ioc8s.cloudfront.net
+dc8xl0ndzn2cb.cloudfront.net
 dca-v4.pops.fastly-insights.com
 dcc2.segmentify.com
 dcctr1.segmentify.com
@@ -5496,6 +5508,7 @@ dedao.igetget.com
 dedicatedmedia.com
 deezer.deliveryengine.adswizz.com
 defymedia-d.openx.net
+deindealheute.de
 del.blueadsrv.com
 delb5.cxense.com
 delb8.cxense.com
@@ -5705,6 +5718,7 @@ dn-se.c.richmetrics.com
 dna2.mookie1.com
 dnads.directnic.com
 dnm.scloud.lfengmobile.com
+dnn506yrbagrg.cloudfront.net
 dns-01.ns.aol.com
 dns-02.ns.aol.com
 dns-06.ns.aol.com
@@ -5956,6 +5970,7 @@ em.dynamicyield.com
 em.subiz.com
 emarketer.com
 emarketing.eclick.vn
+embed.bannerflow.com
 embed.tagboard.com.herokudns.com
 embed.tempest-identity.prod.saymedia.com
 embeds.tagboard.com.herokudns.com
@@ -6578,6 +6593,7 @@ g.jp.miaozhen.com
 g.jwpsrv.com
 g.koowo.com
 g.kuwo.cn
+g.mobilegetscene.xyz
 g.opt8.co
 g0.doubleclick.net
 g1.163.com
@@ -6664,6 +6680,7 @@ gemini.yahoo.com
 gemius.pl
 genieeintl-d.openx.net
 genieessp.com
+geniusdexchange.com
 geo-content.otherlevels.com
 geo-locate.appspot.com
 geo-tracker.smadex.com
@@ -7723,6 +7740,7 @@ ips-post.iperceptions.com
 ipv4.adrta.com
 ipv4alt.antibot.cloud
 ipv4main.antibot.cloud
+ipv4only.arpa
 ipv6.adrta.com
 ipw.metadsp.co.uk
 iq.adtech.de
@@ -7833,6 +7851,7 @@ js-agent.newrelic.com
 js-cdn.dynatrace.com
 js-sdk.atom-data.io
 js-sec.casalemedia.com
+js-sec.indexww.com
 js.ad-score.com
 js.ad-stir.com
 js.adforgames.com
@@ -8116,6 +8135,7 @@ liftdna.com
 liftoff.io
 ligatus.com
 ligatus.de
+lightboxapi.azurewebsites.net
 lightningcast.net
 lightspeedcash.com
 lignon.iad-03.braze.com
@@ -8172,6 +8192,7 @@ load.dfw2.exelator.com
 load.ewr1.exelator.com
 load.exelator.com
 load.fra2.exelator.com
+load.instinctiveads.com
 load.nrt1.exelator.com
 load.sjc1.exelator.com
 load.sumome.com
@@ -8186,7 +8207,6 @@ loadpm.exelator.com
 loadr.exelator.com
 loadus.exelator.com
 loadus.tm.ssl.exelator.com
-loca.sc-jpl.com
 local-analytics.uberinternal.com
 local.ownlocal.com
 localmantra.com
@@ -8831,6 +8851,7 @@ microservice.hapyak.com
 microsite.omniture.com
 microstatic.pl
 microticker.com
+mid.rkdms.com
 midasplayer.com
 midnightclicking.com
 midoweb.offerstrack.net
@@ -10261,6 +10282,7 @@ plista.com
 ploy.batmobi.net
 pls.crispadvertising.com
 plugin.2easydroid.com
+plugin.mediavoice.com
 plugrush.com
 pm-gateway.supersonicads.com
 pm.adsafeprotected.com
@@ -10380,6 +10402,7 @@ prebid-eu.creativecdn.com
 prebid-match.dotomi.com
 prebid-server.rubiconproject.com
 prebid.adnxs.com
+prebid.digitru.st
 prebid.districtm.ca
 prebid.media.net
 precisioncounter.com
@@ -10609,6 +10632,7 @@ pulse360.com
 pulsepoint-platform.rtb.adx1.com
 purch-match.dotomi.com
 purch-sync.go.sonobi.com
+purpledev-d.openx.net
 purr.nytimes.com
 push-api.topaz-analytics.com
 push-sdk-backend-production.ap-south-1.elasticbeanstalk.com
@@ -12276,7 +12300,6 @@ st-analytics.anthill.vn
 st-au.ants.vn
 st-eu.dynamicyield.com
 st-euw1.dynamicyield.com
-st-lb.sc-jpl.com
 st-n.ads1-adnow.com
 st-n.ads2-adnow.com
 st-n.ads3-adnow.com
@@ -12559,7 +12582,6 @@ stats.mediaforge.com
 stats.mediaforge.com.edgekey.net
 stats.mirrorfootball.co.uk
 stats.mobincube.com
-stats.nba.com.edgekey.net
 stats.netsolads.com
 stats.olark.com
 stats.origin.kaltura.com
@@ -12836,6 +12858,7 @@ t.pusk.ru
 t.riverhit.com
 t.sharethis.com
 t.singular.net
+t.skimresources.com
 t.teads.tv
 t.tpctrust.com
 t.unbounce.com
@@ -14278,6 +14301,7 @@ vst.c.appier.net
 vt.adition.com
 vt.ipinyou.com
 vt.myvisualiq.net
+vtrk.doubleverify.com
 vu.moatads.com
 vu.vrtzads.com
 vungle-cdn.vungle.com
@@ -14304,7 +14328,6 @@ w3i.com
 wa.appsflyer.com
 wa.koowo.com
 wa.kuwo.cn
-wa.me
 wa.metro.co.uk
 wad.ojooo.com
 wads.webteh.com
@@ -14325,6 +14348,7 @@ wass.ihsmarkit.com
 watchingthat.com
 waust.at
 waves.retentionscience.com
+waws-prod-dm1-155.cloudapp.net
 wayfairssp-d.openx.net
 waytogrow-d.openx.net
 wayxx.com
@@ -14602,14 +14626,17 @@ www.bodis.com
 www.boxofficemojo.com
 www.brightroll.com
 www.btserve.com
+www.cdn925.com
 www.chartboost.com
 www.chartboost.de
 www.cheetah.com
 www.clickdealer.com
+www.clicken.us
 www.clickky.com
 www.clicktripz.com
 www.cloudns.com
 www.codefuel.com
+www.consumerproductstar.com
 www.conversantmedia.com
 www.converto.io
 www.cpalead.com
@@ -14634,7 +14661,6 @@ www.googletagservices.com
 www.googletraveladservices.com
 www.gowide.com
 www.h1.he7ll.com
-www.hdsp.co
 www.heyzap.com
 www.hibids10.com
 www.honcode.ch
@@ -14654,6 +14680,7 @@ www.kimia.com
 www.komli.com
 www.lasagneandands.com
 www.leadbolt.com
+www.lightboxcdn.com
 www.linkwithin.com
 www.liverail.com
 www.localytics.com
