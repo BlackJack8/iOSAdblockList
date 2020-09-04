@@ -84,6 +84,7 @@
 0.0.0.0 5900-app.mobilgov.com
 0.0.0.0 5994599.fls.doubleclick.net
 0.0.0.0 5ab39ccb6fa1cf6d7c15049d.tracker.bannerflow.com
+0.0.0.0 5f3c395.ccm19.de
 0.0.0.0 5pr1sfzsl9.com
 0.0.0.0 5thfinger.com
 0.0.0.0 600z.com
@@ -539,6 +540,7 @@
 0.0.0.0 ad.wz.cz
 0.0.0.0 ad.ximalaya.com
 0.0.0.0 ad.yadro.ru
+0.0.0.0 ad.yieldlab.net
 0.0.0.0 ad.yourmedia.com
 0.0.0.0 ad.zanox.com
 0.0.0.0 ad.zing.vn
@@ -3646,6 +3648,7 @@
 0.0.0.0 beta.fapine.com
 0.0.0.0 beta.pocketads.pl
 0.0.0.0 betareportcentral.doubleclick.net
+0.0.0.0 betgorebysson.club
 0.0.0.0 betrad.com
 0.0.0.0 betsonsport.ru
 0.0.0.0 bffmetercom.cleverpush.com
@@ -3950,6 +3953,7 @@
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 c.greystripe.com
 0.0.0.0 c.groovehq.com
+0.0.0.0 c.gumgum.com
 0.0.0.0 c.isdspeed.qq.com
 0.0.0.0 c.jsrdn.com
 0.0.0.0 c.ktxtr.com
@@ -4224,10 +4228,12 @@
 0.0.0.0 cdn.bizible.com
 0.0.0.0 cdn.blueconic.net
 0.0.0.0 cdn.boomtrain.com
+0.0.0.0 cdn.c-i.as
 0.0.0.0 cdn.celtra.com
 0.0.0.0 cdn.clickfuse.com
 0.0.0.0 cdn.cloud.altbalaji.com
 0.0.0.0 cdn.cmp.advertising.com
+0.0.0.0 cdn.cohesionapps.com
 0.0.0.0 cdn.coinad.com
 0.0.0.0 cdn.comedia.coccoc.com
 0.0.0.0 cdn.conative.de
@@ -4446,10 +4452,7 @@
 0.0.0.0 cdneval.adnxs.com
 0.0.0.0 cdnimg.izooto.com
 0.0.0.0 cdno.ayads.co
-0.0.0.0 cdnp0.stackassets.com
-0.0.0.0 cdnp1.stackassets.com
 0.0.0.0 cdnp1.yieldoptimizer.com
-0.0.0.0 cdnp3.stackassets.com
 0.0.0.0 cdnproviders.net
 0.0.0.0 cdnpublic.mobidea.com
 0.0.0.0 cdns.lodeo.io
@@ -5786,6 +5789,7 @@
 0.0.0.0 dsp-uswest.adkernel.com
 0.0.0.0 dsp-vg-ali.mobvista.com
 0.0.0.0 dsp-vg.mobvista.com
+0.0.0.0 dsp.adfarm1.adition.com
 0.0.0.0 dsp.adledge.com
 0.0.0.0 dsp.adotmob.com
 0.0.0.0 dsp.api.vungle.com
@@ -5846,6 +5850,7 @@
 0.0.0.0 dync.c.appier.net
 0.0.0.0 dync2.c.appier.net
 0.0.0.0 dyntrk.com
+0.0.0.0 e-10399.adzerk.net
 0.0.0.0 e-adimages.scrippsnetworks.com
 0.0.0.0 e-bannerx.com
 0.0.0.0 e-debtconsolidation.com
@@ -6407,7 +6412,6 @@
 0.0.0.0 firebasedynamiclinks-ipv4.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
-0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 first.iovation.com
 0.0.0.0 first.nova.cz
 0.0.0.0 firstimpression.io
@@ -7619,6 +7623,7 @@
 0.0.0.0 innocean-insight.adsrvr.org
 0.0.0.0 innovid.com
 0.0.0.0 inobhasto.tk
+0.0.0.0 inpagepush.com
 0.0.0.0 inread-experience.teads.tv
 0.0.0.0 inringtone.com
 0.0.0.0 ins-services.meltwater.com
@@ -7740,7 +7745,6 @@
 0.0.0.0 ipv4.adrta.com
 0.0.0.0 ipv4alt.antibot.cloud
 0.0.0.0 ipv4main.antibot.cloud
-0.0.0.0 ipv4only.arpa
 0.0.0.0 ipv6.adrta.com
 0.0.0.0 ipw.metadsp.co.uk
 0.0.0.0 iq.adtech.de
@@ -8340,6 +8344,7 @@
 0.0.0.0 lookup.qubit.com
 0.0.0.0 loopme.biz
 0.0.0.0 loopme.me
+0.0.0.0 lootvalley.com
 0.0.0.0 lop.com
 0.0.0.0 lotame-users.go.sonobi.com
 0.0.0.0 loteria.pocketads.pl
@@ -9545,6 +9550,7 @@
 0.0.0.0 numax.nu-1.com
 0.0.0.0 numbers.md
 0.0.0.0 nuseek.com
+0.0.0.0 nuvuneu.com
 0.0.0.0 nv-sdk.jumio.com
 0.0.0.0 nv.vi-serve.com
 0.0.0.0 nxtck.com
@@ -9602,6 +9608,7 @@
 0.0.0.0 offer.fyber.com
 0.0.0.0 offerforge.com
 0.0.0.0 offerfusion.com
+0.0.0.0 offerimage.com
 0.0.0.0 offermatica.com
 0.0.0.0 offers.appnext.com
 0.0.0.0 offers.cdn.natpal.com
@@ -9675,6 +9682,7 @@
 0.0.0.0 onrt-stsdk.vivo.com.cn
 0.0.0.0 onrt-stsdk.vivoglobal.com
 0.0.0.0 onscroll-d.openx.net
+0.0.0.0 onstunkyr.com
 0.0.0.0 onthe.io
 0.0.0.0 ontime.mobilewareinc.com
 0.0.0.0 oo.moatads.com
@@ -10460,6 +10468,7 @@
 0.0.0.0 prod-m-node-1212.nexage.com
 0.0.0.0 prod-m-node-2112.nexage.com
 0.0.0.0 prod.apptimize.com
+0.0.0.0 prod.outbrain.map.fastlylb.net
 0.0.0.0 prod.perf-serving.com
 0.0.0.0 prod.spotify.map.fastly.net
 0.0.0.0 prod.spotify.map.fastlylb.net
@@ -10543,6 +10552,7 @@
 0.0.0.0 prugskh.net
 0.0.0.0 ps.cname1.igexin.com
 0.0.0.0 ps.cname2.igexin.com
+0.0.0.0 ps.eyeota.net
 0.0.0.0 ps.innity.com
 0.0.0.0 ps.l.admedo.com
 0.0.0.0 ps.popcash.net
@@ -10964,6 +10974,7 @@
 0.0.0.0 reports.nexage.com
 0.0.0.0 reports.ubimo.com
 0.0.0.0 repro-sdk-log.s3.amazonaws.com
+0.0.0.0 republer.com
 0.0.0.0 republika.onet.pl
 0.0.0.0 req.startappservice.com
 0.0.0.0 res.cocounion.com
@@ -11168,6 +11179,7 @@
 0.0.0.0 ru-traffic.com
 0.0.0.0 ru.cdn5.onthe.io
 0.0.0.0 ru.gwallet.com
+0.0.0.0 ru.republer.com
 0.0.0.0 ru.track.uc.cn
 0.0.0.0 ru4.com
 0.0.0.0 rub-winners-ap-northeast-1-rtb.adroll.com
@@ -11270,6 +11282,7 @@
 0.0.0.0 s.rbk.ru
 0.0.0.0 s.servedby-buysellads.com
 0.0.0.0 s.sharethis.com
+0.0.0.0 s.skimresources.com
 0.0.0.0 s.soha.vn
 0.0.0.0 s.spoutable.com
 0.0.0.0 s.ssacdn.com
@@ -12425,6 +12438,7 @@
 0.0.0.0 static.akamai.startappexchange.com
 0.0.0.0 static.ambient-platform.com
 0.0.0.0 static.amplitude.com
+0.0.0.0 static.anleger-reports.de
 0.0.0.0 static.apester.com
 0.0.0.0 static.applifier.com
 0.0.0.0 static.appota.com
@@ -14783,6 +14797,7 @@
 0.0.0.0 x-traceur.com
 0.0.0.0 x-us.appbaqend.com
 0.0.0.0 x.appbaqend.com
+0.0.0.0 x.bidswitch.net
 0.0.0.0 x.fidelity-media.com
 0.0.0.0 x.innovid.com
 0.0.0.0 x.ss2.us
