@@ -84,6 +84,7 @@
 5900-app.mobilgov.com
 5994599.fls.doubleclick.net
 5ab39ccb6fa1cf6d7c15049d.tracker.bannerflow.com
+5f3c395.ccm19.de
 5pr1sfzsl9.com
 5thfinger.com
 600z.com
@@ -539,6 +540,7 @@ ad.wsod.com
 ad.wz.cz
 ad.ximalaya.com
 ad.yadro.ru
+ad.yieldlab.net
 ad.yourmedia.com
 ad.zanox.com
 ad.zing.vn
@@ -3646,6 +3648,7 @@ beta.airpush.com
 beta.fapine.com
 beta.pocketads.pl
 betareportcentral.doubleclick.net
+betgorebysson.club
 betrad.com
 betsonsport.ru
 bffmetercom.cleverpush.com
@@ -3950,6 +3953,7 @@ c.fqtag.com
 c.go-mpulse.net
 c.greystripe.com
 c.groovehq.com
+c.gumgum.com
 c.isdspeed.qq.com
 c.jsrdn.com
 c.ktxtr.com
@@ -4224,10 +4228,12 @@ cdn.bidadx.com
 cdn.bizible.com
 cdn.blueconic.net
 cdn.boomtrain.com
+cdn.c-i.as
 cdn.celtra.com
 cdn.clickfuse.com
 cdn.cloud.altbalaji.com
 cdn.cmp.advertising.com
+cdn.cohesionapps.com
 cdn.coinad.com
 cdn.comedia.coccoc.com
 cdn.conative.de
@@ -4446,10 +4452,7 @@ cdnappicons.appsflyer.com
 cdneval.adnxs.com
 cdnimg.izooto.com
 cdno.ayads.co
-cdnp0.stackassets.com
-cdnp1.stackassets.com
 cdnp1.yieldoptimizer.com
-cdnp3.stackassets.com
 cdnproviders.net
 cdnpublic.mobidea.com
 cdns.lodeo.io
@@ -5786,6 +5789,7 @@ dsp-us.xapads.com
 dsp-uswest.adkernel.com
 dsp-vg-ali.mobvista.com
 dsp-vg.mobvista.com
+dsp.adfarm1.adition.com
 dsp.adledge.com
 dsp.adotmob.com
 dsp.api.vungle.com
@@ -5846,6 +5850,7 @@ dynatrace.com
 dync.c.appier.net
 dync2.c.appier.net
 dyntrk.com
+e-10399.adzerk.net
 e-adimages.scrippsnetworks.com
 e-bannerx.com
 e-debtconsolidation.com
@@ -6407,7 +6412,6 @@ fira-api.kurioapps.com
 firebasedynamiclinks-ipv4.googleapis.com
 firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
-firebaseremoteconfig.googleapis.com
 first.iovation.com
 first.nova.cz
 firstimpression.io
@@ -7619,6 +7623,7 @@ innity.com
 innocean-insight.adsrvr.org
 innovid.com
 inobhasto.tk
+inpagepush.com
 inread-experience.teads.tv
 inringtone.com
 ins-services.meltwater.com
@@ -7740,7 +7745,6 @@ ips-post.iperceptions.com
 ipv4.adrta.com
 ipv4alt.antibot.cloud
 ipv4main.antibot.cloud
-ipv4only.arpa
 ipv6.adrta.com
 ipw.metadsp.co.uk
 iq.adtech.de
@@ -8340,6 +8344,7 @@ looker.bounceexchange.com
 lookup.qubit.com
 loopme.biz
 loopme.me
+lootvalley.com
 lop.com
 lotame-users.go.sonobi.com
 loteria.pocketads.pl
@@ -9545,6 +9550,7 @@ null.iad.appboy.com
 numax.nu-1.com
 numbers.md
 nuseek.com
+nuvuneu.com
 nv-sdk.jumio.com
 nv.vi-serve.com
 nxtck.com
@@ -9602,6 +9608,7 @@ oewabox.at
 offer.fyber.com
 offerforge.com
 offerfusion.com
+offerimage.com
 offermatica.com
 offers.appnext.com
 offers.cdn.natpal.com
@@ -9675,6 +9682,7 @@ onmobile.com
 onrt-stsdk.vivo.com.cn
 onrt-stsdk.vivoglobal.com
 onscroll-d.openx.net
+onstunkyr.com
 onthe.io
 ontime.mobilewareinc.com
 oo.moatads.com
@@ -10460,6 +10468,7 @@ prod-m-node-1112.nexage.com
 prod-m-node-1212.nexage.com
 prod-m-node-2112.nexage.com
 prod.apptimize.com
+prod.outbrain.map.fastlylb.net
 prod.perf-serving.com
 prod.spotify.map.fastly.net
 prod.spotify.map.fastlylb.net
@@ -10543,6 +10552,7 @@ prugskh.com
 prugskh.net
 ps.cname1.igexin.com
 ps.cname2.igexin.com
+ps.eyeota.net
 ps.innity.com
 ps.l.admedo.com
 ps.popcash.net
@@ -10964,6 +10974,7 @@ reports.leanplum.com
 reports.nexage.com
 reports.ubimo.com
 repro-sdk-log.s3.amazonaws.com
+republer.com
 republika.onet.pl
 req.startappservice.com
 res.cocounion.com
@@ -11168,6 +11179,7 @@ ru-onrt-stsdk.vivoglobal.com
 ru-traffic.com
 ru.cdn5.onthe.io
 ru.gwallet.com
+ru.republer.com
 ru.track.uc.cn
 ru4.com
 rub-winners-ap-northeast-1-rtb.adroll.com
@@ -11270,6 +11282,7 @@ s.pubmine.com
 s.rbk.ru
 s.servedby-buysellads.com
 s.sharethis.com
+s.skimresources.com
 s.soha.vn
 s.spoutable.com
 s.ssacdn.com
@@ -12425,6 +12438,7 @@ static.akacdn.ru
 static.akamai.startappexchange.com
 static.ambient-platform.com
 static.amplitude.com
+static.anleger-reports.de
 static.apester.com
 static.applifier.com
 static.appota.com
@@ -14783,6 +14797,7 @@ wzrkt.com
 x-traceur.com
 x-us.appbaqend.com
 x.appbaqend.com
+x.bidswitch.net
 x.fidelity-media.com
 x.innovid.com
 x.ss2.us
