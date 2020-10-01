@@ -4545,7 +4545,6 @@
 0.0.0.0 codefuel.com
 0.0.0.0 codepush.azurewebsites.net
 0.0.0.0 coed-d.openx.net
-0.0.0.0 cognac-prod.appspot.com
 0.0.0.0 cognito-identity.us-east-1.amazonaws.com
 0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.com
@@ -6237,7 +6236,6 @@
 0.0.0.0 gcelb.lytics.io
 0.0.0.0 gcm.ctnsnet.com
 0.0.0.0 gcm.ksmobile.com
-0.0.0.0 gcp.api.snapchat.com
 0.0.0.0 gdfp.ksapisrv.com
 0.0.0.0 gdmconvtrck.com
 0.0.0.0 gdn.bigfishgames.com
