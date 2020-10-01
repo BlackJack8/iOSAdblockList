@@ -228,6 +228,7 @@ aalb.de17a.com
 aan.cdn.speedshiftmedia.com
 aan.speedshiftmedia.com
 aarki.com
+aax-eu-retail-direct.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
 aax.amazon-adsystem.amazon.com
@@ -342,6 +343,7 @@ ad.100.tbn.ru
 ad.103092804.com
 ad.24h.com.vn
 ad.360in.com
+ad.360yield.com
 ad.71i.de
 ad.8live.com
 ad.980x.com
@@ -1449,6 +1451,7 @@ ads6.gamecity.net
 ads7.gamecity.net
 ads8.com
 adsaccount.appcpi.net
+adsafeprotected.com
 adsage.cn
 adsage.com
 adsame.cm.admaster.com.cn
@@ -2701,6 +2704,7 @@ apnjp.c.appier.net
 apnx-match.dotomi.com
 apoll.m.taobao.com
 apollointeractive.ringrevenue.com
+app-analytics.snapchat.com
 app-config.enhance.co
 app-de.onetrust.com
 app-e.marketo.com
@@ -3838,6 +3842,7 @@ cd.navdmp.com
 cdas-01.trafficfabrik.com
 cdg-v4.pops.fastly-insights.com
 cdlc.iadvize.com
+cdn-a.amazon-adsystem.com
 cdn-a.yieldlove.com
 cdn-a2-ncl.optimizely.com
 cdn-adn-foreign.rayjump.com
@@ -3951,6 +3956,7 @@ cdn.coinad.com
 cdn.comedia.coccoc.com
 cdn.conative.de
 cdn.concert.io
+cdn.contentspread.net
 cdn.cookielaw.org
 cdn.creative.medialytics.com
 cdn.crwdcntrl.net
@@ -4007,6 +4013,7 @@ cdn.lodeo.io
 cdn.logly.co.jp
 cdn.logrocket.com
 cdn.logrocket.io
+cdn.luyten-98c.com
 cdn.m6r.eu
 cdn.madkudu.com
 cdn.manage.com
@@ -4184,6 +4191,7 @@ ceg.g5e.com
 celebslam.tags.crwdcntrl.net
 celeritascdn.com
 cell.zhybzp.cn
+cell3p001.eu-west-1.prod.3p.entry.video-ads.a2z.com
 celltick.com
 celtra.com
 centerpointmedia.com
@@ -4636,6 +4644,7 @@ conf.lsosad.com
 conf.placer.io
 conf.smartnews-ads.com
 conf.xdrig.com
+confiant-integrations.global.ssl.fastly.net
 config-ltvp.inmobi.com
 config.88-f.net
 config.ad-brix.com
@@ -5016,6 +5025,7 @@ d6y1.ads.pof.com
 d6y2.ads.pof.com
 d6y3.ads.pof.com
 d88diamond.com
+d8rk54i4mohrb.cloudfront.net
 da-ads.com
 da-serving.eastus.avi.idsp.inmobi.com
 da.inmobi.com
@@ -5984,7 +5994,6 @@ fineboost-loghub.ap-southeast-1.log.aliyuncs.com
 fineclicks.com
 finlogs.joyeggs.com
 fira-api.kurioapps.com
-firebasedynamiclinks-ipv4.googleapis.com
 firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 first.iovation.com
@@ -6007,6 +6016,7 @@ fleshlightcash.com
 flexbanner.com
 floodprincipal.com
 flowgo.com
+fls-eu.amazon-adsystem.com
 fls.doubleclick.net
 fluentmobile.com
 fluid-adverts.localstars.com
@@ -6227,6 +6237,7 @@ gc.ds.duapps.com
 gcelb.lytics.io
 gcm.ctnsnet.com
 gcm.ksmobile.com
+gcp.api.snapchat.com
 gdfp.ksapisrv.com
 gdmconvtrck.com
 gdn.bigfishgames.com
@@ -6465,7 +6476,6 @@ gtop100.com
 gts-ads.twistbox.com
 gtsads.com
 gtsdk.batmobi.net
-gtssl2-ocsp.geotrust.com
 gu-pix.appspot.com
 gu.dyntrk.com
 guc-api.sonic-us.supersonicads.com
@@ -6527,6 +6537,7 @@ hadspms.com
 hajoopteg.com
 hal9000.redintelligence.net
 hal900018.redintelligence.net
+hal900026.redintelligence.net
 halc.iadvize.com
 hao123.com.com
 harrenmedia.com
@@ -7304,6 +7315,7 @@ itm.ivitrack.com
 itop.cz
 its-that-easy.com
 itsptp.com
+itx5.smartadserver.com
 iu.snssdk.com.edgekey.net
 iv.doubleclick.net
 ivid-cdn.adhigh.net
@@ -8863,6 +8875,7 @@ notifyback-va.isnssdk.com
 novem.pl
 noxagile.duapp.com
 npr.deliveryengine.adswizz.com
+npttech.com
 nr-data.net
 nr.taboola.com
 nrc.bl.duapps.com
@@ -9021,7 +9034,6 @@ ocio.leadzutw.com
 oclaserver.com
 oclasrv.com
 oconner.biz
-ocsp.comodoca.com
 ocx.umeng.com
 odm.nielsen.com
 odr.mookie1.com
@@ -10178,6 +10190,7 @@ realtor-tagan.adlightning.com
 realtracker.com
 reaper.pulse.inmobi.com
 reate.info
+rebel.ai
 rebootv5.adfuture.cn
 rebootv5.adsunflower.com
 rebtelsdk.pubnub.com
@@ -10592,6 +10605,7 @@ s0-2mdn-net.l.google.com
 s0.2mdn.net
 s0.doubleclick.net
 s1.2mdn.net
+s1.adform.net
 s1.doubleclick.net
 s1.download123.com
 s10.histats.com
@@ -11502,6 +11516,7 @@ ssl.ligatus.com
 ssl.linksynergy.com
 ssl.lomadee.com
 ssl.msdk.qq.com
+ssl.pow.im
 ssl.quantserve.com
 ssl.supersonicads.com
 ssl.zoomanalytics.co
@@ -12500,6 +12515,7 @@ tr.blismedia.com
 tr.eyereturn.com
 tr.iadsdk.apple.com
 tr.selectiveads.net
+tr.snapchat.com
 tr4ck.brucelead.com
 tr5ck.brucelead.com
 tr8ck.brucelead.com
@@ -13201,6 +13217,7 @@ vaapplovinrtb.lfstmedia.com
 vabid.prod.sift.co
 vads.net.vn
 vads.vn
+vaes.amazon-adsystem.com
 valegaj.com
 validate.appsflyer.com
 validator.lomadee.com
@@ -13786,6 +13803,7 @@ www.kimia.com
 www.komli.com
 www.lasagneandands.com
 www.leadbolt.com
+www.leanplum.com
 www.lightboxcdn.com
 www.linkwithin.com
 www.liverail.com
@@ -13878,6 +13896,7 @@ www.zergnet.com
 www1.inspiredjournal.xyz
 www3secure.com
 www8.glam.com
+www8.smartadserver.com
 wwwservices.iad.appboy.com
 wx.cname1.igexin.com
 wyvern.iad.appboy.com
