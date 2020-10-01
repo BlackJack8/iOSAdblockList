@@ -4545,7 +4545,6 @@ code3.adtlgc.com
 codefuel.com
 codepush.azurewebsites.net
 coed-d.openx.net
-cognac-prod.appspot.com
 cognito-identity.us-east-1.amazonaws.com
 coin-hive.com
 coinhive.com
@@ -6237,7 +6236,6 @@ gc.ds.duapps.com
 gcelb.lytics.io
 gcm.ctnsnet.com
 gcm.ksmobile.com
-gcp.api.snapchat.com
 gdfp.ksapisrv.com
 gdmconvtrck.com
 gdn.bigfishgames.com
