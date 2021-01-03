@@ -13047,7 +13047,6 @@ us-central.load.exelator.com
 us-central1-eyewind-ads.cloudfunctions.net
 us-content.mediaforge.com
 us-e-node10.gothamads.com
-us-east-1-a.route.herokuapp.com
 us-east-1.world.rw.yieldmo.com
 us-east-ad-track.aralego.com
 us-east-ads.aralego.com
