@@ -6100,7 +6100,6 @@
 ||flash.doubleclick-analytics.com^
 ||flash.quantserve.com^
 ||flashtalking.com^
-||flashtalking.com^
 ||fleshlightcash.com^
 ||flexbanner.com^
 ||floodprincipal.com^
