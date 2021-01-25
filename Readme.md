@@ -11,7 +11,7 @@ For new users i recommend Adguard Pro, as it allows you to subscribe to a list w
 ___________________________________________________________________________________________________________________________________
 
 Use this link to directly import the list to Adblock by Futuremind: 
-https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt
+https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Regular%20Hosts.txt
 
 Use this link to subscribe to the list in Adguard Pro:
-https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/iPv4Hosts.txt
+https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt
