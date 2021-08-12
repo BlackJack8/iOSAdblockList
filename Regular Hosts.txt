@@ -4620,7 +4620,6 @@ code3.adtlgc.com
 codefuel.com
 codepush.azurewebsites.net
 coed-d.openx.net
-cognito-identity.us-east-1.amazonaws.com
 coin-hive.com
 coinhive.com
 cointraffic.io
@@ -5171,7 +5170,6 @@ dataf.ads.oppomobile.com
 datahub.adalliance.io
 datahub.serving-sys.com
 datashreddergold.com
-datawrapper.dwcdn.net
 dataxu.com
 datesweetcherrybabies.com
 datplus.springserve.com
@@ -5958,7 +5956,6 @@ exp.360in.com
 exp.glispa.com
 exp.platform.glispa.com
 exp.wg.spotify.com
-experience.tinypass.com
 experiment.appadhoc.com
 experteerads.com
 exponential.com
@@ -10265,7 +10262,6 @@ r.fullstory.com
 r.l.admob.com
 r.leadzuaf.com
 r.mobpartner.mobi
-r.mradx.net
 r.openx.net
 r.popin.cc
 r.remarketingpixel.com
@@ -10745,7 +10741,6 @@ s.mopub.com
 s.ntv.io
 s.perzonalization.com
 s.pubmine.com
-s.rbk.ru
 s.servedby-buysellads.com
 s.sharethis.com
 s.skimresources.com
@@ -14338,3 +14333,10 @@ zzxd.mediav.com
 vxcp.de
 players.delight-vr.com
 vteam.focus.de
+unityads.unity3d.com
+pki-goog.l.google.com
+cdn.pubnative.net
+6950b287179d17a9d226ad6001d81b33-adf0901f1861.cdn5.forter.com
+prod-a4.applovin.com
+applovin.com
+adserver.targroup-media.de
