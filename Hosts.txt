@@ -13944,7 +13944,6 @@
 ||www.adfonic.com^$important
 ||www.adgoi.com^$important
 ||www.aditic.com^$important
-||www.adsbexchange.com^$important
 ||www.adtilt.com^$important
 ||www.adxtro.com^$important
 ||www.aerserv.com^$important
