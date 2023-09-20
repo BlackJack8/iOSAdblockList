@@ -279,7 +279,6 @@ accesstrade.com.vn
 accesstrade.vn
 account.fyber.com
 accounts.doubleclick.net
-accscdn.m.taobao.com
 acdn.adnxs.com
 acdn.prod.pubstack.io
 acento.com
@@ -290,7 +289,6 @@ acme.tango.me
 acp.fyber.com
 acrabakasaka.com
 acrmbjkk6qc5utby.pro
-acs.m.taobao.com
 acs4baichuan.m.taobao.com
 acsdk.gameyw.easebar.com
 acsseo.com
@@ -2468,7 +2466,6 @@ api.cloudmobi.net
 api.comscore.com
 api.connecto.io
 api.content.ad
-api.crashlytics.com
 api.crispadvertising.com
 api.crittercism.com
 api.crowdin.com
@@ -2986,7 +2983,6 @@ asp.animelab.com
 asset.pagefair.com
 asset.pagefair.net
 asset1.sponsorpay.com
-assets-jpcust.jwpsrv.com
 assets-lib.mobileposse.com
 assets-production.applicaster.com
 assets-secure.applicaster.com
@@ -4554,7 +4550,6 @@ cm.admaster.com.cn
 cm.adsafety.net
 cm.adskeeper.co.uk
 cm.cn.miaozhen.com
-cm.crashlytics.com
 cm.g.doubleclick.net
 cm.gammaplatform.com
 cm.imrworldwide.com
@@ -4907,7 +4902,6 @@ crasheye.cn
 crashlogs.whatsapp.net
 crashlogs.woniu.com
 crashlytics.163.com
-crashlytics.com
 craveandlamb.com
 crawlability.com
 crawlclocks.com
@@ -5395,7 +5389,6 @@ disqus-d.openx.net
 disqusads.com
 dist.belnk.com
 distractify-d.openx.net
-distributions-crashlytics-com.s3.amazonaws.com
 districtm-match.dotomi.com
 distrify-production.imgix.net
 distroscale-d.openx.net
@@ -5573,7 +5566,6 @@ e.ad.xiaomi.com
 e.adhaven.com
 e.apsalar.com
 e.cn.miaozhen.com
-e.crashlytics.com
 e.de.inmobi.com
 e.deployads.com
 e.domob.cn
@@ -5768,8 +5760,6 @@ et.mobadvent.com
 et.w.dfw1.vip.inmobi.com
 et.w.dfw2.vip.inmobi.com
 et.w.inmobi.com
-et2-eu13.wagbridge.alibaba.tanx.com
-et2-na61-na62.wagbridge.alibaba.tanx.com
 etahub.com
 etargetnet.com
 etcodes.com
@@ -6263,7 +6253,6 @@ g.fotoable.com
 g.gop1.co
 g.gridsum.com
 g.jp.miaozhen.com
-g.jwpsrv.com
 g.koowo.com
 g.kuwo.cn
 g.mobilegetscene.xyz
@@ -6706,7 +6695,6 @@ heywire.com
 heyzap.com
 hfc195b.com
 hgads.com
-hgc-cf-cache-1.svonm.com
 hh-btr.com
 hhbekxxw5d9e.pflexads.com
 hhcdn.ru
@@ -7403,7 +7391,6 @@ ironsource-d.openx.net
 irqs.ioam.de
 irr.ru
 irs01.com
-irs1.4sqi.net
 is-gateway.supersonicads.com
 is-tracking-pixel-api-prod.appspot.com
 is.yllix.com
@@ -7605,7 +7592,6 @@ kinesisanalytics.eu-west-1.amazonaws.com
 kiosked.com
 kissmetrics.com
 kissmyads.go2jump.org
-kits.crashlytics.com
 kixer.com
 kjos.vo.llnwd.net
 kladovonet.com.com
@@ -8811,7 +8797,6 @@ mybestsecureeu.com
 mybloglog.com
 mybuys.com
 mycdn.media.net
-mycliplister.com
 mycounter.ua
 mydas.mobi
 myinfotopia.com
@@ -9189,7 +9174,6 @@ offer.fyber.com
 offerbeast.g2afse.com
 offerforge.com
 offerfusion.com
-offerimage.com
 offermatica.com
 offers.appnext.com
 offers.cdn.natpal.com
@@ -10451,7 +10435,6 @@ reportcentral.doubleclick.net
 reporting.aatkit.com
 reporting.ligatus.com
 reporting.tapstream.com
-reports.crashlytics.com
 reports.inmobi.com
 reports.leanplum.com
 reports.nexage.com
@@ -11309,7 +11292,6 @@ sessions.bugsnag.com
 sessions.mobileroadie.com
 seth.avazutracking.net
 setting.rayjump.com
-settings.crashlytics.com
 seu2.cleverreach.com
 sexadvertentiesite.nl
 sexcounter.com
@@ -11429,7 +11411,6 @@ sisaltracksdk.optimove.net
 sistacked.com
 site.answers.com
 siteimproveanalytics.com
-siteintercept.qualtrics.com
 sitemaji.com
 sitemeter.com
 siterecruit.comscore.com
@@ -11556,7 +11537,6 @@ sonar.adswizz.com
 sonata-notifications-eu-central.taptapnetworks.com
 sonata-notifications-us-east.taptapnetworks.com
 sondheim-elb.appboy.com
-songbird.cardinalcommerce.com
 songdew.pushengage.com
 sor-sdk.follow-apps.com
 sortable.com
@@ -13571,7 +13551,6 @@ videology-partners.tremorhub.com
 videoplaza.com
 videoplaza.tv
 videoplus.vo.llnwd.net
-videos-f.jwpsrv.com
 vidilife.crwdcntrl.net
 vidoplay.b-cdn.net
 vidora.com
@@ -13827,7 +13806,6 @@ widgets.opinary.com
 widgets.outbrain.com
 widgets.pinterest.com
 widgets.stripst.com
-widgets.trustedshops.com
 wigetmedia.com
 wikia-ads.wikia.com
 wildcard.measuread.com.edgekey.net
@@ -13944,7 +13922,6 @@ www.adcolony.org
 www.adfonic.com
 www.adgoi.com
 www.aditic.com
-www.adsbexchange.com
 www.adtilt.com
 www.adxtro.com
 www.aerserv.com
@@ -14072,7 +14049,6 @@ www.pubmatic.com
 www.refinery29.com
 www.revcontent.com
 www.rfsafe.com
-www.roadandtrack.com
 www.rol.ru
 www.sc.pages03.net
 www.sdad.guru
@@ -14315,7 +14291,6 @@ zintext.com
 zlifestyle-d.openx.net
 zmedia.com
 zminer.zaloapp.com
-zn2t6mdnujruus8jh-inc.siteintercept.qualtrics.com
 zone.uniad.vn
 zones.kitchensync.pro
 zookeeper01.aatkit.com
@@ -14334,7 +14309,6 @@ vxcp.de
 players.delight-vr.com
 vteam.focus.de
 unityads.unity3d.com
-pki-goog.l.google.com
 cdn.pubnative.net
 6950b287179d17a9d226ad6001d81b33-adf0901f1861.cdn5.forter.com
 prod-a4.applovin.com
