@@ -11589,7 +11589,6 @@
 ||sporcle-d.openx.net^$important
 ||sport1.pushwoosh.com^$important
 ||sportplus.pro^$important
-||sports-update.mobileposse.com^$important
 ||sportsillustrated.tags.crwdcntrl.net^$important
 ||sportstream.biz^$important
 ||spot-im-d.openx.net^$important
